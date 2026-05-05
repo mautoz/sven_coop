@@ -1,0 +1,7 @@
+.env
+.claude/
+vps_backup/
+contexto_svencoop.md
+site/
+__pycache__/
+.github

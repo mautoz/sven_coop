@@ -1,0 +1,27 @@
+site_name: Mau Sven Co-op Server
+site_url: https://mautoz.github.io/sven_coop/
+repo_url: https://github.com/mautoz/sven_coop
+repo_name: mautoz/sven_coop
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: teal
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Início: index.md
+  - Plugins: instalacao_plugins.md
+  - Comandos:
+      - Português: comandos_jogadores.md
+      - English: player_commands.md
+      - Español: comandos_jugadores.md
+  - Mapcycle: mapcycle_campaigns.md
+  - Reporte: contato.md
