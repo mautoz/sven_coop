@@ -24,7 +24,7 @@ Acesse **[fastdl.mtavaresozaki.com.br/ajuda/](https://fastdl.mtavaresozaki.com.b
 
 ## Seções
 
-- [Plugins](instalacao_plugins.md) — lista de plugins e repositórios
+- [Plugins](plugins.md) — lista de plugins e repositórios
 - [Comandos dos Jogadores](comandos_jogadores.md) — guia de uso para jogadores
 - [Mapcycle](mapcycle_campaigns.md) — todos os mapas e campanhas
 - [Reporte](contato.md) — bugs, sugestões e denúncias

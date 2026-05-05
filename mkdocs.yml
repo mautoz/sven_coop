@@ -18,7 +18,7 @@ theme:
 
 nav:
   - Início: index.md
-  - Plugins: instalacao_plugins.md
+  - Plugins: plugins.md
   - Comandos:
       - Português: comandos_jogadores.md
       - English: player_commands.md
