@@ -8,7 +8,7 @@ Use a página de ajuda do servidor para reportar problemas, enviar sugestões ou
 
 Servidor caiu, mapa travado, plugin com erro, crash ao entrar, etc.
 
-[Reportar bug :material-arrow-right:](https://fastdl.mtavaresozaki.com.br/ajuda/){ .md-button .md-button--primary target="_blank" }
+[Reportar bug :material-arrow-right:](https://svencoop.mtavaresozaki.com.br){ .md-button .md-button--primary target="_blank" }
 
 ---
 
@@ -16,7 +16,7 @@ Servidor caiu, mapa travado, plugin com erro, crash ao entrar, etc.
 
 Novo mapa, ajuste de plugin, ideia de campanha, melhoria de configuração.
 
-[Enviar sugestão :material-arrow-right:](https://fastdl.mtavaresozaki.com.br/ajuda/){ .md-button target="_blank" }
+[Enviar sugestão :material-arrow-right:](https://svencoop.mtavaresozaki.com.br){ .md-button target="_blank" }
 
 ---
 
@@ -24,4 +24,4 @@ Novo mapa, ajuste de plugin, ideia de campanha, melhoria de configuração.
 
 Jogador com comportamento abusivo, cheats, griefing ou outros problemas de conduta.
 
-[Fazer denúncia :material-arrow-right:](https://fastdl.mtavaresozaki.com.br/ajuda/){ .md-button target="_blank" }
+[Fazer denúncia :material-arrow-right:](https://svencoop.mtavaresozaki.com.br){ .md-button target="_blank" }

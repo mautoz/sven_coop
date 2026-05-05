@@ -20,7 +20,7 @@ Servidor dedicado **[BR] Mau Sven Co-op** com plugins de qualidade de vida e sis
 
 ## Página de ajuda do servidor
 
-Acesse **[fastdl.mtavaresozaki.com.br/ajuda/](https://fastdl.mtavaresozaki.com.br/ajuda/)** para comandos, lista de mapas, ranking, achievements/logros e como chamar o admin — disponível em PT, EN e ES.
+Acesse **[svencoop.mtavaresozaki.com.br](https://svencoop.mtavaresozaki.com.br)** para comandos, lista de mapas, ranking, achievements/logros e como chamar o admin — disponível em PT, EN e ES.
 
 ## Seções
 
