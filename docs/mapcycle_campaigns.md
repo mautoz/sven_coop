@@ -186,7 +186,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_waterflow | - |
 | sc_waterworks | - |
 | secretlab_r | - |
-| sectore | - |
 | sectore_1 | sectore_2, sectore_3, sectore_4, sectore_5 |
 | sewer_systematic | - |
 | shadv1 | shadv2, shadv3 |
@@ -221,7 +220,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_grapplejumps | - |
 | sc_reflux | - |
 | subsurface | - |
-| tritonbeta | - |
 | underground | - |
 | urbicide_01 | urbicide_02, urbicide_03, urbicide_04, urbicide_05, urbicide_06, urbicide_07, urbicide_07b, urbicide_08, urbicide_09 |
 | case1 | case2, case3, case4, case5, case6, case7, case8, case9 |
@@ -357,3 +355,5 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | Arquivo | BSPs incluídos | Data remoção | Motivo |
 |---|---|---|---|
 | `KPM.zip` | `kpm`, `killer_arena`, `killer_cinema`, `killer_interrogation` | 17/04/2026 | Pack abandonado pelo autor. Disponível no Sven Co-op Map DB mas incompleto: sem missões, sem explicações e com falta de texturas. |
+| `sectore.zip` | `sectore` | 06/05/2026 | Mapa original sem fim/incompleto, abandonado pelo autor. Evoluiu e foi expandido para a série "Sector E" (sectore_1–5, sectore_level_1/2), que permanece no mapcycle. Apenas o BSP removido; assets compartilhados preservados. |
+| `tritonbeta.zip` | `tritonbeta` | 06/05/2026 | Mapa sem fim/incompleto, abandonado pelo autor. Nenhum asset exclusivo além do BSP. |
