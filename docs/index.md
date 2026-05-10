@@ -2,14 +2,16 @@
 
 Servidor dedicado **[BR] Mau Sven Co-op** com plugins de qualidade de vida e sistema de progressão (XP/níveis/handicaps).
 
-## Acesso ao servidor
+## Sobre o servidor
 
 | Info | Valor |
 |---|---|
 | IP | `187.127.10.46:27015` |
 | Protocolo | Steam / Sven Co-op |
-| Mapas instalados | 746 BSPs |
-| Mapcycle | 334 mapas |
+| Mapas instalados | 823 BSPs |
+| Mapcycle | 351 mapas |
+| Espaço ocupado (maps/) | 4,6 GB |
+| Espaço ocupado (total) | 16 GB |
 
 ## O que tem no servidor
 
