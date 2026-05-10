@@ -47,7 +47,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | blackmesaepf | - |
 | blackops | - |
 | bm64-abc | - |
-| bm_nightmare_a_final | - |
+| bm_nightmare_a_final | bm_nightmare_b_final, bm_nightmare_c_final, bm_nightmare_d_final |
 | bm_sts | - |
 | bmg-a1_getaway | - |
 | bmtcoop | - |
@@ -93,13 +93,14 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | durga | - |
 | dy_accident1 | dy_accident2, dy_alien, dy_dampen, dy_dorms, dy_focus, dy_fubar, dy_hazard, dy_lasers, dy_outro, dy_signal, dy_uplink |
 | echoes-0 | echoes-1, echoes-2, echoes-3, echoes-4, echoes-5, echoes-6_1, echoes-7, echoes-8, echoes-9, echoes-10, echoes-11, echoes-12, echoes-13, echoes-14 |
-| ein1 | - |
+| ein1 | ein2, ein3 |
 | escape_series | escape_series_1a, escape_series_1b |
 | escape_series_2a | escape_series_2b, escape_series_2c, escape_series_2d, escape_series_2e |
 | escape_series_3a | escape_series_3b, escape_series_3c, escape_series_3d, escape_series_3e |
 | etc1_1 | etc1_2 |
 | etc2_1 | etc2_2, etc2_3, etc2_4, etc2_5 |
 | evilmansion | - |
+| exhale1 | (no mapcycle — nível secreto acessível via exhale1platinum) |
 | exhale1platinum | exhale2platinum, exhale3platinum, exhale4a, exhale4b, exhale5a, exhale5b, exhale6 |
 | exposedb1 | - |
 | extended | - |
@@ -136,7 +137,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | keencity_r | - |
 | keencityspace_r | - |
 | kh1 | kh2, kh3, kh4, kh5, kh6fix2, kh7_preview |
-| krypton1 | - |
+| krypton1 | krypton2, krypton3, krypton4, krypton5, krypton6, krypton7 |
 | kyper-kuutio1 | kyper-kuutio2 |
 | kyper-kuutio2 | - |
 | labflee | - |
@@ -314,7 +315,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | tubers_r | - |
 | turretfortress | - |
 | twhltower_1 | twhltower_2 |
-| ua1 | - |
+| ua1 | ua2, ua3, ua4, ua5 |
 | ub_iseki1 | ub_iseki2 |
 | ub_megaman1-3 | - |
 | ub_nagoya_v2 | - |
