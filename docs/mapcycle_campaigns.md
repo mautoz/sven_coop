@@ -200,9 +200,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | the_prison_v2 | - |
 | towertraining_revised | - |
 | twhltower_1 | twhltower_2 |
-| ub_iseki | - |
-| ub_iseki1 | - |
-| ub_iseki2 | - |
+| ub_iseki1 | ub_iseki2 |
 | ub_megaman1-3 | - |
 | ub_nagoya_v2 | - |
 | uboa | - |
@@ -240,8 +238,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | nm_darkisland | - |
 | sc_face | - |
 | sciguard2 | - |
-| ub_iseki1 | - |
-| ub_iseki2 | - |
+| ub_iseki1 | ub_iseki2 |
 | uboa_bossrush | - |
 | cad_ctraining | cad_lab1, cad_merged00, cad_merged01, cad_merged02, cad_merged03, cad_merged04, cad_merged05, cad_merged06, cad_merged07, cad_merged08, cad_merged09, cad_outro |
 | it1 | it2, it3, it4, it5, it6, it7, it8, it9, it10, it11 |
@@ -355,5 +352,6 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | Arquivo | BSPs incluídos | Data remoção | Motivo |
 |---|---|---|---|
 | `KPM.zip` | `kpm`, `killer_arena`, `killer_cinema`, `killer_interrogation` | 17/04/2026 | Pack abandonado pelo autor. Disponível no Sven Co-op Map DB mas incompleto: sem missões, sem explicações e com falta de texturas. |
-| `sectore.zip` | `sectore` | 06/05/2026 | Mapa original sem fim/incompleto, abandonado pelo autor. Evoluiu e foi expandido para a série "Sector E" (sectore_1–5, sectore_level_1/2), que permanece no mapcycle. Apenas o BSP removido; assets compartilhados preservados. |
-| `tritonbeta.zip` | `tritonbeta` | 06/05/2026 | Mapa sem fim/incompleto, abandonado pelo autor. Nenhum asset exclusivo além do BSP. |
+| `sectore.zip` | `sectore` | 06/05/2026 | Mapa original sem fim/incompleto, abandonado pelo autor. Evoluiu e foi expandido para a série "Sector E" (sectore_1–5), que permanece no mapcycle. Apenas o BSP removido; assets compartilhados preservados. |
+| `tritonbeta.zip` | `tritonbeta` | 06/05/2026 | Mapa original sem fim/incompleto, abandonado pelo autor. Evoluiu e foi expandido para a série "Sector E" (sectore_1–5), que permanece no mapcycle. Apenas o BSP removido; assets compartilhados preservados. |
+| `ub_iseki` | `ub_iseki` | 10/05/2026 | Versão "merged" mais recente do autor, sem o achievement "Face vs Face". Removido do servidor. A série original de 2008 (`ub_iseki1` → `ub_iseki2`) permanece — `ub_iseki2` acessível via changelevel, não no mapcycle diretamente. |
