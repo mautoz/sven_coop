@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 06/05/2026 — 332 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 10/05/2026 — 351 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -30,6 +30,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | afrikakorps1-3m | - |
 | albulena | - |
 | alienshooter_demo | - |
+| aniquilacion | - |
 | arcad2_v1 | - |
 | arcad_v1 | arcad2_v1 |
 | arctic_incident_1 | arctic_incident_2 |
@@ -79,6 +80,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | cs_blitzwar | - |
 | cs_galleon-f | - |
 | cs_hokkaido | - |
+| ct1 | ct2 |
 | ctf_warforts | - |
 | deadsimpleneo2 | - |
 | deltar | - |
@@ -99,12 +101,14 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | escape_series_3a | escape_series_3b, escape_series_3c, escape_series_3d, escape_series_3e |
 | etc1_1 | etc1_2 |
 | etc2_1 | etc2_2, etc2_3, etc2_4, etc2_5 |
+| etherlab_v1 | - |
 | evilmansion | - |
 | exhale1 | (no mapcycle — nível secreto acessível via exhale1platinum) |
 | exhale1platinum | exhale2platinum, exhale3platinum, exhale4a, exhale4b, exhale5a, exhale5b, exhale6 |
 | exposedb1 | - |
 | extended | - |
 | extension | - |
+| extraction_a1 | extraction_a2 |
 | fallback_fire1 | fallback_fire2 |
 | fallback_ice1 | fallback_ice2, fallback_ice3 |
 | fate0 | fate1, fate2, fate3 |
@@ -120,6 +124,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | hauntedsouls-d1 | hauntedsouls-d2, hauntedsouls-d3, hauntedsouls-d4, hauntedsouls-d5, hauntedsouls-d6, hauntedsouls-d7, hauntedsouls-d8 |
 | hellbound | - |
 | hlbar_canteen | - |
+| host_error | - |
 | hplanet | - |
 | icestormx | - |
 | incoming | - |
@@ -151,6 +156,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | mboxv3 | - |
 | meat_of_yas | - |
 | megamonstermassacre | megamonstermassacre2 |
+| mf1 | mf2, mf3, mf4 |
 | militarystrike_beta2 | - |
 | miseryb6 | - |
 | mmm_v2 | - |
@@ -177,6 +183,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | oprv2-1 | oprv2-2 |
 | ops_intro | ops_club, ops_credits, ops_ctown, ops_ep, ops_escape, ops_hq, ops_industry, ops_jail, ops_sewer, ops_street, ops_subway, ops_wareh |
 | osprey | - |
+| osprey_company | - |
 | otokotati_no_kouzan | - |
 | pizza_ya_san1 | pizza_ya_san2 |
 | pointless_b2 | - |
@@ -236,6 +243,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_silenthil_v1b | - |
 | sc_sniperwar_xmas_r | - |
 | sc_spaceviking1 | - |
+| sc_spaceviking2 | - |
 | sc_spacewar | - |
 | sc_stalklab_b1 | - |
 | sc_strangers-1 | sc_strangers-2 |
@@ -243,6 +251,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_tension | - |
 | sc_tetris1 | sc_tetris2, sc_tetris3, sc_tetris4, sc_tetris5, sc_tetris6 |
 | sc_tetrisfancv11 | - |
+| sc_thc | - |
 | sc_tl_cf_library | - |
 | sc_tod1 | - |
 | sc_toxic | - |
@@ -305,6 +314,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | thewinery | - |
 | toadsnatch | - |
 | toonrun1 | toonrun2, toonrun3 |
+| tower1-5 | - |
 | tower6 | - |
 | towertraining_revised | - |
 | tox_office_beta | - |
@@ -339,8 +349,10 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | wrongworld | - |
 | wrongworld2 | - |
 | xen_bossrush | - |
+| xt-tower | - |
 | yabma | - |
 | zero | - |
+
 
 ---
 
