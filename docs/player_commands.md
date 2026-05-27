@@ -5,7 +5,7 @@
 Opens the weapon buy menu using money earned during the map.
 
 ```
-\buy
+/buy
 ```
 
 > Money is earned by score. Starting balance: 5000.
