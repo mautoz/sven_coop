@@ -123,6 +123,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | hauntedsouls-c1 | hauntedsouls-c2, hauntedsouls-c3, hauntedsouls-c4, hauntedsouls-c5, hauntedsouls-c5a, hauntedsouls-c6 |
 | hauntedsouls-d1 | hauntedsouls-d2, hauntedsouls-d3, hauntedsouls-d4, hauntedsouls-d5, hauntedsouls-d6, hauntedsouls-d7, hauntedsouls-d8 |
 | hellbound | - |
+| hl_c00 | hl_c01_a1, hl_c01_a2, hl_c02_a1, hl_c02_a2, hl_c03, hl_c04, hl_c05_a1, hl_c05_a2, hl_c05_a3, hl_c06, hl_c07_a1, hl_c07_a2, hl_c08_a1, hl_c08_a2, hl_c09, hl_c10, hl_c11_a1, hl_c11_a2, hl_c11_a3, hl_c12_a1, hl_c12_a2, hl_c13_a1, hl_c13_a2, hl_c13_a3, hl_c13_a4, hl_c14, hl_c15, hl_c16_a1, hl_c16_a2, hl_c16_a3, hl_c16_a4, hl_c17, hl_c18 |
 | hlbar_canteen | - |
 | host_error | - |
 | hplanet | - |
