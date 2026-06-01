@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 10/05/2026 — 351 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 01/06/2026 — 370 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -26,6 +26,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | accesspoint | - |
 | adams_dungeon | - |
 | adams_puzzles_beta2 | - |
+| adato1 | - |
 | afrikakorps-bonus | - |
 | afrikakorps1-3m | - |
 | albulena | - |
@@ -83,6 +84,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | ct1 | ct2 |
 | ctf_warforts | - |
 | deadsimpleneo2 | - |
+| deathwish | - |
+| dejabu | - |
 | deltar | - |
 | deluge_beta_v3 | - |
 | desastre | desastre_cap1, desastre_cap2, desastre_cap3, desastre_cap4, desastre_cap5, desastre_cap6, desastre_cap7, desastre_cap8 |
@@ -90,12 +93,14 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | desolation | desolationp2 |
 | devious2_v2 | - |
 | devious_trials1 | - |
+| dogs-1 | - |
 | donaldtrump2016 | - |
 | dread | - |
 | durga | - |
 | dy_accident1 | dy_accident2, dy_alien, dy_dampen, dy_dorms, dy_focus, dy_fubar, dy_hazard, dy_lasers, dy_outro, dy_signal, dy_uplink |
 | echoes-0 | echoes-1, echoes-2, echoes-3, echoes-4, echoes-5, echoes-6_1, echoes-7, echoes-8, echoes-9, echoes-10, echoes-11, echoes-12, echoes-13, echoes-14 |
 | ein1 | ein2, ein3 |
+| enroute66 | - |
 | escape_series | escape_series_1a, escape_series_1b |
 | escape_series_2a | escape_series_2b, escape_series_2c, escape_series_2d, escape_series_2e |
 | escape_series_3a | escape_series_3b, escape_series_3c, escape_series_3d, escape_series_3e |
@@ -109,9 +114,12 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | extended | - |
 | extension | - |
 | extraction_a1 | extraction_a2 |
+| fail-mountain | - |
 | fallback_fire1 | fallback_fire2 |
 | fallback_ice1 | fallback_ice2, fallback_ice3 |
 | fate0 | fate1, fate2, fate3 |
+| fi_c01_a1 | fi_c01_a2, fi_c02_a1, fi_c02_a2, fi_c03_a1, fi_c04_a1, fi_c05_a1, fi_c06_a1, fi_c07_a1, fi_c08_a1, fi_c09_a1, fi_c10_a1, fi_c10_a2 |
+| fi_lobby | - |
 | fortified1 | - |
 | gitfest-1g | gitfest-2g |
 | halloween_construction | - |
@@ -122,6 +130,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | hauntedsouls-b1 | hauntedsouls-b2, hauntedsouls-b3, hauntedsouls-b4, hauntedsouls-b5, hauntedsouls-b6, hauntedsouls-b7, hauntedsouls-b7a, hauntedsouls-b8 |
 | hauntedsouls-c1 | hauntedsouls-c2, hauntedsouls-c3, hauntedsouls-c4, hauntedsouls-c5, hauntedsouls-c5a, hauntedsouls-c6 |
 | hauntedsouls-d1 | hauntedsouls-d2, hauntedsouls-d3, hauntedsouls-d4, hauntedsouls-d5, hauntedsouls-d6, hauntedsouls-d7, hauntedsouls-d8 |
+| he1 | he2, he3 |
 | hellbound | - |
 | hl_c00 | hl_c01_a1, hl_c01_a2, hl_c02_a1, hl_c02_a2, hl_c03, hl_c04, hl_c05_a1, hl_c05_a2, hl_c05_a3, hl_c06, hl_c07_a1, hl_c07_a2, hl_c08_a1, hl_c08_a2, hl_c09, hl_c10, hl_c11_a1, hl_c11_a2, hl_c11_a3, hl_c12_a1, hl_c12_a2, hl_c13_a1, hl_c13_a2, hl_c13_a3, hl_c13_a4, hl_c14, hl_c15, hl_c16_a1, hl_c16_a2, hl_c16_a3, hl_c16_a4, hl_c17, hl_c18 |
 | hlbar_canteen | - |
@@ -148,8 +157,11 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | kyper-kuutio2 | - |
 | labflee | - |
 | last | last2, last3, last4 |
+| left_life | dark_life |
 | leprechaun1 | leprechaun2, leprechaun3, leprechaun3-2 |
 | letonguebasev3 | - |
+| ll_0 | ll_hc (sequência longa) |
+| llampyalto | - |
 | lobbyjumpingv1 | - |
 | lostmaze | - |
 | lv_colony | - |
@@ -160,6 +172,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | mf1 | mf2, mf3, mf4 |
 | militarystrike_beta2 | - |
 | miseryb6 | - |
+| mmm | - |
 | mmm_v2 | - |
 | mommamesa | - |
 | murks | - |
@@ -194,6 +207,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | projectguilty1 | projectguilty2, projectguilty3 |
 | quarter | - |
 | ragemap | - |
+| ragemap2016 | - |
+| ragemap3_1_beta | - |
 | rampage | - |
 | rc_towerdefense | - |
 | rede0 | rede1, rede2, rede3, rede4, rede5, rede6_1, rede7, rede8 |
@@ -209,6 +224,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | run3_r | - |
 | rv_c2ac1_fd | rv_c2ac2c_v1, rv_c2ac2_v2 |
 | sandstone | - |
+| sc_activist-1 | sc_activist-2 |
 | sc_another | - |
 | sc_anotherv2_beta | - |
 | sc_argentina-series | sc_argentina-series2, sc_argentina-series3, sc_argentina-series4 |
@@ -223,6 +239,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_egypt2 | - |
 | sc_er | sc_er2 |
 | sc_face | - |
+| sc_fuga | - |
 | sc_grapplejumps | - |
 | sc_greysnake1 | - |
 | sc_greysnake2 | - |
@@ -326,6 +343,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | tubers_r | - |
 | turretfortress | - |
 | twhltower_1 | twhltower_2 |
+| txp1 | txp2, txp3, txp4 |
 | ua1 | ua2, ua3, ua4, ua5 |
 | ub_iseki1 | ub_iseki2 |
 | ub_megaman1-3 | - |
@@ -344,6 +362,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | urbicide_01 | urbicide_02, urbicide_03, urbicide_04, urbicide_05, urbicide_06, urbicide_07, urbicide_07b, urbicide_08, urbicide_09 |
 | vger | vger2beta1 |
 | volt2 | - |
+| warningc | - |
+| warningcitymulp | warningc, dejabu, llampyalto, sc_fuga |
 | want_1 | want_2, want_3, want_4, want_5, want_6, want_7, want_8, want_9, want_9a, want_10, want_11, want_12, want_13 |
 | why1 | - |
 | wired | - |
