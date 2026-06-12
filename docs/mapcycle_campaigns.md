@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 01/06/2026 — 370 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 12/06/2026 — 399 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -83,9 +83,10 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | cs_hokkaido | - |
 | ct1 | ct2 |
 | ctf_warforts | - |
+| darkstar_merged01 | darkstar_merged02, darkstar_merged03, darkstar_merged04, darkstar_merged05 |
+| dbjr | - |
 | deadsimpleneo2 | - |
 | deathwish | - |
-| dejabu | - |
 | deltar | - |
 | deluge_beta_v3 | - |
 | desastre | desastre_cap1, desastre_cap2, desastre_cap3, desastre_cap4, desastre_cap5, desastre_cap6, desastre_cap7, desastre_cap8 |
@@ -161,16 +162,19 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | leprechaun1 | leprechaun2, leprechaun3, leprechaun3-2 |
 | letonguebasev3 | - |
 | ll_0 | ll_hc (sequência longa) |
-| llampyalto | - |
 | lobbyjumpingv1 | - |
 | lostmaze | - |
 | lv_colony | - |
 | matmanizm | - |
+| moria | - |
+| moria_sc | - *(admin only — versão antiga sem secrets, repetitivo)* |
 | mboxv3 | - |
 | meat_of_yas | - |
 | megamonstermassacre | megamonstermassacre2 |
+| mementocity | - |
 | mf1 | mf2, mf3, mf4 |
 | militarystrike_beta2 | - |
+| minimicus_v1 | - |
 | miseryb6 | - |
 | mmm | - |
 | mmm_v2 | - |
@@ -183,6 +187,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | nintai_subway | - |
 | nira1 | - |
 | nm_darkisland | - |
+| nm_moria | - |
 | nm_uspninjas | - |
 | nohope1 | nohope2, nohope3 |
 | nohope2_1 | nohope2_2 |
@@ -199,6 +204,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | osprey | - |
 | osprey_company | - |
 | otokotati_no_kouzan | - |
+| peanyworld_r_1-1 | peanyworld_r_1-2, peanyworld_r_2-1a, peanyworld_r_2-1b, peanyworld_r_2-2 |
 | pizza_ya_san1 | pizza_ya_san2 |
 | pointless_b2 | - |
 | polar_rescue | - |
@@ -239,7 +245,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_egypt2 | - |
 | sc_er | sc_er2 |
 | sc_face | - |
-| sc_fuga | - |
+| sc_fuga | warningcitymulp, warningcity2mulp, warningcity3mulp, warningc, llampyalto, dejabu |
 | sc_grapplejumps | - |
 | sc_greysnake1 | - |
 | sc_greysnake2 | - |
@@ -253,6 +259,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_persia | - |
 | sc_phantasmish_beta | - |
 | sc_psyko | - |
+| sc_rats_test2 | - |
 | sc_reactivist | - |
 | sc_reflux | - |
 | sc_robination_revised | - |
@@ -340,7 +347,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | tox_slug1 | - |
 | tox_surface-a | tox_surface-b, tox_surface-c |
 | tox_xen1 | tox_xen2 |
-| tubers_r | - |
+| tubers_r | - *(admin only — muito pesado, causa lag intenso)* |
 | turretfortress | - |
 | twhltower_1 | twhltower_2 |
 | txp1 | txp2, txp3, txp4 |
@@ -363,7 +370,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | vger | vger2beta1 |
 | volt2 | - |
 | warningc | - |
-| warningcitymulp | warningc, dejabu, llampyalto, sc_fuga |
 | want_1 | want_2, want_3, want_4, want_5, want_6, want_7, want_8, want_9, want_9a, want_10, want_11, want_12, want_13 |
 | why1 | - |
 | wired | - |

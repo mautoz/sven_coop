@@ -8,9 +8,9 @@ Servidor dedicado **[BR] Mau Sven Co-op** com plugins de qualidade de vida e sis
 |---|---|
 | IP | `187.127.10.46:27015` / `svenserver.mtavaresozaki.com.br:27015` |
 | Protocolo | Steam / Sven Co-op |
-| Mapas instalados | 823 BSPs |
-| Mapcycle | 370 mapas |
-| Espaço ocupado (maps/) | 4,6 GB |
+| Mapas instalados | 955 BSPs |
+| Mapcycle | 399 entradas (396 campanhas únicas) |
+| Espaço ocupado (maps/) | 5,1 GB |
 | Espaço ocupado (total) | 16 GB |
 
 ## O que tem no servidor
