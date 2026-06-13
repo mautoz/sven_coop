@@ -19,7 +19,7 @@ O server utiliza alguns plugins prontos e disponíveis na internet pelos própri
 | Lt-Parachute | AngelScript | ltibm | ✅ Funcionando |
 | AntiBlock | AngelScript | wootguy | ✅ Funcionando |
 | Spectate | AngelScript | wootguy | ✅ Funcionando (modo espectador) |
-| rgbglows | AngelScript | grunt | ✅ Funcionando (`!glow` no chat) |
+| rgbglows | AngelScript | grunt ([GameBanana](https://gamebanana.com/mods/582240){target="_blank"}) | ✅ Funcionando (`!glow` no chat) |
 | PlayerHelp | AngelScript | mautoz | ✅ Funcionando (`say /commands`) |
 | mau_messages | AngelScript | mautoz | ✅ Funcionando (mensagens periódicas + boas-vindas) |
 | mau_csay | AngelScript | mautoz | ✅ Funcionando (HUD messages via bot Telegram) |
@@ -44,5 +44,6 @@ O server utiliza alguns plugins prontos e disponíveis na internet pelos própri
 | RockTheVote | [MrOats/AngelScript_SC_Plugins](https://github.com/MrOats/AngelScript_SC_Plugins/releases/tag/RTV_v4.0){target="_blank"} |
 | Nightvision + Teleport | [CubeMath/UCHFastDL2](https://github.com/CubeMath/UCHFastDL2/tree/master/svencoop/scripts/plugins){target="_blank"} |
 | Lt-Parachute | [ltibm/Lt-Parachute](https://github.com/ltibm/Lt-Parachute){target="_blank"} |
-| wootguy (SimpleGrab, Portal, AFBase, AntiBlock) | [github.com/wootguy](https://github.com/wootguy){target="_blank"} |
+| wootguy (SimpleGrab, Portal, AFBase, AntiBlock, Spectate) | [github.com/wootguy](https://github.com/wootguy){target="_blank"} |
 | Zode (Hookmod, Hats) | [wootguy/AfbaseExpansions](https://github.com/wootguy/AfbaseExpansions){target="_blank"} |
+| rgbglows | [gamebanana.com/mods/582240](https://gamebanana.com/mods/582240){target="_blank"} |
