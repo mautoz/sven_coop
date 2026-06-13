@@ -1,6 +1,6 @@
 # Plugins
 
-O server utiliza alguns plugins prontos e disponíveis na internet pelos próprios desenvolvedores, outros são próprios deste servidores. Todos os plugins usados (ou já utilizados) estão listados abaixo e os que não externos estão devidamente creditados aos autores.
+O server utiliza alguns plugins prontos e disponíveis na internet pelos próprios desenvolvedores, além de outros que são próprios deste servidores. Todos os plugins usados (ou já utilizados) estão listados abaixo e os externos estão com os perfis devidamente creditados.
 
 ## Status dos plugins
 
