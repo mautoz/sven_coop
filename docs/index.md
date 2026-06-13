@@ -1,6 +1,6 @@
 # [BR] Mau Sven Co-op Server
 
-Servidor dedicado **[BR] Mau Sven Co-op** com plugins de qualidade de vida e sistema de progressão (XP/níveis/handicaps).
+Servidor dedicado **[BR] Mau Sven Co-op** com plugins de XP mod (XP/levels/handicaps).
 
 ## Sobre o servidor
 
@@ -26,7 +26,7 @@ Acesse **[svencoop.mtavaresozaki.com.br](https://svencoop.mtavaresozaki.com.br)*
 
 ## Seções
 
-- [Plugins](plugins.md) — lista de plugins e repositórios
+- [Plugins](plugins.md) — lista de plugins, créditos aos desenvolvedores e seus repositórios
 - [Comandos dos Jogadores](comandos_jogadores.md) — guia de uso para jogadores
 - [Mapcycle](mapcycle_campaigns.md) — todos os mapas e campanhas
 - [Reporte](contato.md) — bugs, sugestões e denúncias

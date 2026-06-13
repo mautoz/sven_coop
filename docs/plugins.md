@@ -1,5 +1,7 @@
 # Plugins
 
+O server utiliza alguns plugins prontos e disponíveis na internet pelos próprios desenvolvedores, outros são próprios deste servidores. Todos os plugins usados (ou já utilizados) estão listados abaixo e os que não externos estão devidamente creditados aos autores.
+
 ## Status dos plugins
 
 | Plugin | Tipo | Fonte | Status |
@@ -16,11 +18,18 @@
 | Hats (AFBase) | AngelScript | Zode | ✅ Funcionando (`hat menu` no chat) |
 | Lt-Parachute | AngelScript | ltibm | ✅ Funcionando |
 | AntiBlock | AngelScript | wootguy | ✅ Funcionando |
+| Spectate | AngelScript | wootguy | ✅ Funcionando (modo espectador) |
+| rgbglows | AngelScript | grunt | ✅ Funcionando (`!glow` no chat) |
 | PlayerHelp | AngelScript | mautoz | ✅ Funcionando (`say /commands`) |
 | mau_messages | AngelScript | mautoz | ✅ Funcionando (mensagens periódicas + boas-vindas) |
-| Vox | nativo Sven | Sven Co-op Team | ✅ Funcionando (sons de voz via chat) |
-| Yell | AngelScript | sample | ✅ Funcionando (sons de grunt aleatórios) |
-| mau_afk | AngelScript | mautoz | ⏸ Desativado |
+| mau_csay | AngelScript | mautoz | ✅ Funcionando (HUD messages via bot Telegram) |
+| mau_goto | AngelScript | mautoz | ✅ Funcionando (teleporte entre jogadores, admin) |
+| mau_goto_pos | AngelScript | mautoz | ✅ Funcionando (salva/restaura posição, admin) |
+| mau_thetime | AngelScript | mautoz | ✅ Funcionando (exibe hora do servidor) |
+| mau_punishment | AngelScript | mautoz | ✅ Funcionando (punições de admin) |
+| mau_afk | AngelScript | mautoz | ✅ Funcionando (detecção AFK) |
+| Vox | nativo Sven | Sven Co-op Team | ❌ Desativado |
+| Yell | AngelScript | sample | ❌ Desativado |
 
 ---
 
