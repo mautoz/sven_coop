@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 12/06/2026 — 399 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 14/06/2026 — 401 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -43,6 +43,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | awaken1 | awaken2, awaken3 |
 | ayakashi_banquet | - |
 | base_attack | - |
+| btx1 | btx2, btx3, btx4, btx5, btx6 |
 | betrayed_beta | - |
 | between | - |
 | black_haze | - |
@@ -245,6 +246,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_egypt2 | - |
 | sc_er | sc_er2 |
 | sc_face | - |
+| sc_fathom24 | - |
 | sc_fuga | warningcitymulp, warningcity2mulp, warningcity3mulp, warningc, llampyalto, dejabu |
 | sc_grapplejumps | - |
 | sc_greysnake1 | - |
