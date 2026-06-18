@@ -8,8 +8,8 @@ Servidor dedicado **[BR] Mau Sven Co-op** com plugins de XP mod (XP/levels/handi
 |---|---|
 | IP | `187.127.10.46:27015` / `svenserver.mtavaresozaki.com.br:27015` |
 | Protocolo | Steam / Sven Co-op |
-| Mapas instalados | 955 BSPs |
-| Mapcycle | 399 entradas (396 campanhas únicas) |
+| Mapas instalados | 995 BSPs |
+| Mapcycle | 407 entradas (404 campanhas únicas) |
 | Espaço ocupado (maps/) | 5,1 GB |
 | Espaço ocupado (total) | 16 GB |
 
