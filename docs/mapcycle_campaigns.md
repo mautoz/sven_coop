@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 14/06/2026 — 401 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 18/06/2026 — 407 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -65,6 +65,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | case1 | case2, case3, case4, case5, case6, case7, case8, case9 |
 | cassault1 | - |
 | central_bunker_r6 | - |
+| chdeep0 | chdeep0a, chdeep0b, chdeep0c, chdeep0d, chdeep1, chdeep2, chdeep3, chdeep4, chdeep5, chdeep6, chdeep7, chdeep8, chdeep9, chdeep10, chdeep11, chdeep12, chdeep13, chdeep14, chdeep15, chdeep16, chdeep17, chdeep18, chdeep19, chdeep_train |
 | civildefence | - |
 | clockwork | - |
 | clonelab | - |
@@ -84,6 +85,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | cs_hokkaido | - |
 | ct1 | ct2 |
 | ctf_warforts | - |
+| d2_coast_10_xmas | - |
 | darkstar_merged01 | darkstar_merged02, darkstar_merged03, darkstar_merged04, darkstar_merged05 |
 | dbjr | - |
 | deadsimpleneo2 | - |
@@ -174,6 +176,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | megamonstermassacre | megamonstermassacre2 |
 | mementocity | - |
 | mf1 | mf2, mf3, mf4 |
+| miami | - |
 | militarystrike_beta2 | - |
 | minimicus_v1 | - |
 | miseryb6 | - |
@@ -283,7 +286,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_tod1 | - |
 | sc_toxic | - |
 | sc_toysoldiers | - |
-| sc_tropical1 | sc_tropical2, sc_tropical3 |
+| sc_tropical | sc_tropical2, sc_tropical3 |
+| sc_unreal | - |
 | sc_wars | - |
 | sc_waterflow | - |
 | sc_waterworks | - |
@@ -349,6 +353,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | tox_slug1 | - |
 | tox_surface-a | tox_surface-b, tox_surface-c |
 | tox_xen1 | tox_xen2 |
+| trainhelp | - |
 | tubers_r | - *(admin only — muito pesado, causa lag intenso)* |
 | turretfortress | - |
 | twhltower_1 | twhltower_2 |
@@ -363,6 +368,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | uboabrasil | - |
 | uboamedley | - |
 | uboapack | - |
+| ulife_1 | ulife_2, ulife_3 |
 | underground | - |
 | underhalls | - |
 | unholy | - |
