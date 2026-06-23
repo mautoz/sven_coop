@@ -26,7 +26,8 @@ O server utiliza alguns plugins prontos e disponíveis na internet pelos própri
 | mau_goto | AngelScript | mautoz | ✅ Funcionando (teleporte entre jogadores, admin) |
 | mau_goto_pos | AngelScript | mautoz | ✅ Funcionando (salva/restaura posição, admin) |
 | mau_thetime | AngelScript | mautoz | ✅ Funcionando (exibe hora do servidor) |
-| mau_punishment | AngelScript | mautoz | ✅ Funcionando (punições de admin) |
+| mau_punishment | AngelScript | mautoz | ✅ Funcionando (`.slap`, `.hurt`, `.kill`, `.warn`) |
+| mau_revive | AngelScript | mautoz | ⏳ Testado — pendente deploy |
 | mau_afk | AngelScript | mautoz | ✅ Funcionando (detecção AFK) |
 | Vox | nativo Sven | Sven Co-op Team | ❌ Desativado |
 | Yell | AngelScript | sample | ❌ Desativado |
