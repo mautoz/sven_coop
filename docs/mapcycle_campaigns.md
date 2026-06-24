@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 18/06/2026 — 407 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 24/06/2026 — 408 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -240,6 +240,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_argentina-series | sc_argentina-series2, sc_argentina-series3, sc_argentina-series4 |
 | sc_avp1-4m | - |
 | sc_aztec | - |
+| sc_carpodacus_carnage | sc_carpodacus_carnage2, sc_carpodacus_carnage3, sc_carpodacus_carnage3_2 |
+| sc_castlerat_v1 | - |
 | sc_contratosc_c1_beta | - |
 | sc_crazylab_final | - |
 | sc_defend_base3a_en | - |
