@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 24/06/2026 — 408 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 24/06/2026 — 402 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -158,7 +158,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | kh1 | kh2, kh3, kh4, kh5, kh6fix2, kh7_preview |
 | krypton1 | krypton2, krypton3, krypton4, krypton5, krypton6, krypton7 |
 | kyper-kuutio1 | kyper-kuutio2 |
-| kyper-kuutio2 | - |
 | labflee | - |
 | last | last2, last3, last4 |
 | left_life | dark_life |
