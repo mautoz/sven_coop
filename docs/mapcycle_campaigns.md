@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 24/06/2026 — 402 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 13/07/2026 — 441 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -42,11 +42,17 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | autonomy_lost1 | autonomy_lost2, autonomy_lost3, autonomy_lost4, autonomy_lost5 |
 | awaken1 | awaken2, awaken3 |
 | ayakashi_banquet | - |
+| back_whispers_1_v2 | back_whispers_2_v2, back_whispers_3_v2 |
 | base_attack | - |
 | btx1 | btx2, btx3, btx4, btx5, btx6 |
 | betrayed_beta | - |
 | between | - |
+| bh1_l1-bm | bh1_l2 |
+| biglolly1-5m | - |
 | black_haze | - |
+| blackfacility | - |
+| blackfacility2 | - |
+| blackmesaclassic | blackmesaclassic2, blackmesaclassic3 |
 | blackmesaepf | - |
 | blackops | - |
 | bm64-abc | - |
@@ -55,13 +61,16 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | bmg-a1_getaway | - |
 | bmtcoop | - |
 | borgcube1-2m | - |
+| bossbattle | - |
 | breakdown_heist | - |
 | breakout | - |
 | breakout_extended | - |
 | bridge | - |
 | bridge2k | - |
 | bts_rc | - |
+| btw1 | btw2 |
 | cad_ctraining | cad_lab1, cad_merged00, cad_merged01, cad_merged02, cad_merged03, cad_merged04, cad_merged05, cad_merged06, cad_merged07, cad_merged08, cad_merged09, cad_outro |
+| caged-1 | caged-2, caged-3, caged_bonus |
 | case1 | case2, case3, case4, case5, case6, case7, case8, case9 |
 | cassault1 | - |
 | central_bunker_r6 | - |
@@ -85,6 +94,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | cs_hokkaido | - |
 | ct1 | ct2 |
 | ctf_warforts | - |
+| cwc1 | cwc2, cwc3, cwc3a, cwc4, cwc4a |
+| cwcr1a | cwcr1b, cwcr2 |
 | d2_coast_10_xmas | - |
 | darkstar_merged01 | darkstar_merged02, darkstar_merged03, darkstar_merged04, darkstar_merged05 |
 | dbjr | - |
@@ -94,16 +105,19 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | deluge_beta_v3 | - |
 | desastre | desastre_cap1, desastre_cap2, desastre_cap3, desastre_cap4, desastre_cap5, desastre_cap6, desastre_cap7, desastre_cap8 |
 | desertcircle | - |
+| desk | - |
 | desolation | desolationp2 |
 | devious2_v2 | - |
 | devious_trials1 | - |
 | dogs-1 | - |
 | donaldtrump2016 | - |
+| doomfest_merged | - |
 | dread | - |
 | durga | - |
 | dy_accident1 | dy_accident2, dy_alien, dy_dampen, dy_dorms, dy_focus, dy_fubar, dy_hazard, dy_lasers, dy_outro, dy_signal, dy_uplink |
 | echoes-0 | echoes-1, echoes-2, echoes-3, echoes-4, echoes-5, echoes-6_1, echoes-7, echoes-8, echoes-9, echoes-10, echoes-11, echoes-12, echoes-13, echoes-14 |
 | ein1 | ein2, ein3 |
+| enc-1 | enc-2 |
 | enroute66 | - |
 | escape_series | escape_series_1a, escape_series_1b |
 | escape_series_2a | escape_series_2b, escape_series_2c, escape_series_2d, escape_series_2e |
@@ -119,12 +133,14 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | extension | - |
 | extraction_a1 | extraction_a2 |
 | fail-mountain | - |
+| ffl_a | ffl_b |
+| failure_1 | failure_2, failure_3 |
 | fallback_fire1 | fallback_fire2 |
 | fallback_ice1 | fallback_ice2, fallback_ice3 |
 | fate0 | fate1, fate2, fate3 |
-| fi_c01_a1 | fi_c01_a2, fi_c02_a1, fi_c02_a2, fi_c03_a1, fi_c04_a1, fi_c05_a1, fi_c06_a1, fi_c07_a1, fi_c08_a1, fi_c09_a1, fi_c10_a1, fi_c10_a2 |
-| fi_lobby | - |
+| fi_lobby | fi_c01_a1, fi_c01_a2, fi_c02_a1, fi_c02_a2, fi_c03_a1, fi_c03_a2, fi_c03_a3, fi_c04_a1, fi_c04_a2, fi_c05_a1, fi_c05_a2, fi_c06_a1, fi_c06_a2, fi_c06_a3, fi_c07_a1, fi_c07_a2, fi_c07_a3, fi_c08_a1, fi_c08_a2, fi_c09_a1, fi_c09_a2, fi_c10_a1, fi_c10_a2 |
 | fortified1 | - |
+| gash | - |
 | gitfest-1g | gitfest-2g |
 | halloween_construction | - |
 | halloween_hauntedhouse | - |
@@ -138,16 +154,23 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | hellbound | - |
 | hl_c00 | hl_c01_a1, hl_c01_a2, hl_c02_a1, hl_c02_a2, hl_c03, hl_c04, hl_c05_a1, hl_c05_a2, hl_c05_a3, hl_c06, hl_c07_a1, hl_c07_a2, hl_c08_a1, hl_c08_a2, hl_c09, hl_c10, hl_c11_a1, hl_c11_a2, hl_c11_a3, hl_c12_a1, hl_c12_a2, hl_c13_a1, hl_c13_a2, hl_c13_a3, hl_c13_a4, hl_c14, hl_c15, hl_c16_a1, hl_c16_a2, hl_c16_a3, hl_c16_a4, hl_c17, hl_c18 |
 | hlbar_canteen | - |
+| hlcomando_1 | hlcomando_2, hlcomando_3, hlcomando_4, hlcomando_5 |
+| hlplu_1 | hlplu_2, hlplu_3, hlplu_4, hlplu_t |
 | host_error | - |
 | hplanet | - |
+| hr_dream-1 | hr_dream-2, hr_dream-3, hr_dream-4 |
+| htc_1 | htc_2, htc_3 |
 | icestormx | - |
 | incoming | - |
 | infested | infested2 |
+| infinite_rift1 | infinite_rift2, infinite_rift3, infinite_rift4 |
 | inhuman | - |
+| instinct_r_1 | instinct_r_2, instinct_r_3, instinct_r_4 |
 | intruder | - |
 | inv_dojo | - |
 | invasion1_4m | - |
 | io_v1 | - |
+| irreality1 | irreality2 |
 | it1 | it2, it3, it4, it5, it6, it7, it8, it9, it10, it11 |
 | it_has_leaks | - |
 | judgement | - |
@@ -160,10 +183,11 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | kyper-kuutio1 | kyper-kuutio2 |
 | labflee | - |
 | last | last2, last3, last4 |
-| left_life | dark_life |
+| dark_life | - |
+| left_life | - |
 | leprechaun1 | leprechaun2, leprechaun3, leprechaun3-2 |
 | letonguebasev3 | - |
-| ll_0 | ll_hc (sequência longa) |
+| ll_hc | ll_0, ll_1a1a, ll_1a1b, ll_1a2, ll_1a3, ll_2a1, ll_2a2, ll_2a3, ll_2a4a, ll_2a4b, ll_2a5, ll_3a1, ll_3a2 |
 | lobbyjumpingv1 | - |
 | lostmaze | - |
 | lv_colony | - |
@@ -182,6 +206,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | mmm | - |
 | mmm_v2 | - |
 | mommamesa | - |
+| monsterdok_r | - |
 | murks | - |
 | music | - |
 | mustard | - |
@@ -199,6 +224,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | of_utbm1 | of_utbm2, of_utbm3, of_utbm4, of_utbm5, of_utbm6 |
 | office_arena_beta_v3_1 | - |
 | og1a | og1b, og1c, og2 |
+| om0 | om1, om2, om3, om4, om5, om6 |
 | omg | - |
 | omg2beta2 | - |
 | oprv1-1 | oprv1-2 |
@@ -210,6 +236,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | peanyworld_r_1-1 | peanyworld_r_1-2, peanyworld_r_2-1a, peanyworld_r_2-1b, peanyworld_r_2-2 |
 | pizza_ya_san1 | pizza_ya_san2 |
 | pointless_b2 | - |
+| poke646_lobby | po_intro, po_c0m1, po_c0m2, po_c0m3, po_c1m1, po_c1m2, po_c1m3, po_c1m4, po_c2m1, po_c2m2, po_c2m3, po_c2m4, po_c2m5, po_c3m1, po_c3m2, po_c3m3, po_c3m4, po_c3m5, po_c3m6, po_c3m7, po_c3m8, po_c4m1, po_c4m2, po_c4m3, po_c4m4, po_c4m5, po_c5m1, po_outro, pv_intro, pv_c1m1, pv_c1m2, pv_c1m3, pv_c1m4, pv_c1m5, pv_c2m1, pv_c2m2, pv_c2m3, pv_c2m4, pv_c2m5, pv_c3m1, pv_c3m2, pv_outro |
 | polar_rescue | - |
 | pql_1 | pql_2, pql_3, pql_4, pql_4a, pql_5, pql_6, pql_7, pql_8 |
 | prisoned1a | prisoned1b, prisoned2 |
@@ -233,20 +260,23 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | run3_r | - |
 | rv_c2ac1_fd | rv_c2ac2c_v1, rv_c2ac2_v2 |
 | sandstone | - |
+| santas_workshop | santas_workshop_pt2 |
 | sc_activist-1 | sc_activist-2 |
 | sc_another | - |
 | sc_anotherv2_beta | - |
 | sc_argentina-series | sc_argentina-series2, sc_argentina-series3, sc_argentina-series4 |
 | sc_avp1-4m | - |
 | sc_aztec | - |
+| sc_caget | - |
 | sc_carpodacus_carnage | sc_carpodacus_carnage2, sc_carpodacus_carnage3, sc_carpodacus_carnage3_2 |
 | sc_castlerat_v1 | - |
 | sc_contratosc_c1_beta | - |
 | sc_crazylab_final | - |
+| sc_dark_seekers_final | sc_dark_seekers_2_final |
 | sc_defend_base3a_en | - |
 | sc_doc | - |
 | sc_dojo_v2 | - |
-| sc_egypt | - |
+| sc_egypt | sc_egypt2 |
 | sc_egypt2 | - |
 | sc_er | sc_er2 |
 | sc_face | - |
@@ -262,6 +292,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_mazing | - |
 | sc_mirage1 | - |
 | sc_night | - |
+| sc_nuclear_b01 | - |
 | sc_persia | - |
 | sc_phantasmish_beta | - |
 | sc_psyko | - |
@@ -292,6 +323,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_wars | - |
 | sc_waterflow | - |
 | sc_waterworks | - |
+| scary_dark_house | - |
 | sciguard2 | - |
 | secretcity_r_1 | secretcity_r_2, secretcity_r_3, secretcity_r_4, secretcity_r_5, secretcity_r_5x, secretcity_r_6, secretcity_r_die, secretcity_r_k, secretcity_r_k2, secretcity_r_frac, secretcity_r_red|
 | secretcity_r_2 | (no mapcycle — parte da campanha secretcity, ver secretcity_r_1) |
@@ -318,6 +350,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sledge | - |
 | smashtv_beta | - |
 | snd | - |
+| spaceprisoner | spaceprisoner2 |
 | sneed_v3_summer | - |
 | sneed_v3_winter | - |
 | sniper4 | - |
@@ -332,12 +365,14 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | svencontra2_1a | svencontra2_1b, svencontra2_2a, svencontra2_2b |
 | svencoop1 | svencoop2 |
 | svor01-2 | - |
+| swars_installation | - |
 | t0a0 | t0a0a, t0a0b1, t0a0b2, t0a0c, t0a0d |
 | th_ep1_00 | th_ep1_01, th_ep1_02, th_ep1_03, th_ep1_04, th_ep1_05 |
 | th_ep2_00 | th_ep2_01, th_ep2_02, th_ep2_03, th_ep2_04 |
 | th_ep3_00 | th_ep3_01, th_ep3_02, th_ep3_03, th_ep3_04, th_ep3_05, th_ep3_06, th_ep3_07 |
 | th_escape | - |
 | the-climb | the-climb2, the-climb3 |
+| the_crypt | - |
 | the_daikon_warfare1 | the_daikon_warfare2, the_daikon_warfare3 |
 | the_prison_v2 | - |
 | the_room_demo | - |
@@ -346,6 +381,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | thewinery | - |
 | toadsnatch | - |
 | toonrun1 | toonrun2, toonrun3 |
+| touhou_hakureijinja | - |
 | tower1-5 | - |
 | tower6 | - |
 | towertraining_revised | - |
@@ -371,6 +407,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | uboapack | - |
 | ulife_1 | ulife_2, ulife_3 |
 | underground | - |
+| underground_shelter_v1 | - |
 | underhalls | - |
 | unholy | - |
 | uplink | - |
@@ -385,6 +422,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | wrongworld | - |
 | wrongworld2 | - |
 | xen_bossrush | - |
+| xenwalk | - |
 | xt-tower | - |
 | yabma | - |
 | zero | - |
