@@ -415,7 +415,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | urbicide_01 | urbicide_02, urbicide_03, urbicide_04, urbicide_05, urbicide_06, urbicide_07, urbicide_07b, urbicide_08, urbicide_09 |
 | vger | vger2beta1 |
 | volt2 | - |
-| warningc | - |
 | want_1 | want_2, want_3, want_4, want_5, want_6, want_7, want_8, want_9, want_9a, want_10, want_11, want_12, want_13 |
 | why1 | - |
 | wired | - |
