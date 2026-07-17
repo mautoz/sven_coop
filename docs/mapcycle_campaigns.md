@@ -16,14 +16,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 
 | Mapcycle (1º mapa) | Mapas vinculados (sequência) |
 |---|---|
-
-
----
-
-## Mapas removidos do mapcycle
-
-Mapas que foram instalados mas removidos do ciclo por problemas identificados. Mantidos aqui para evitar reinclusão acidental.
-
 | -sp_campaign_portal | - |
 | 300 | - |
 | 5am | - |
@@ -57,6 +49,8 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | ayakashi_banquet | - |
 | back_whispers_1_v2 | back_whispers_2_v2, back_whispers_3_v2 |
 | base_attack | - |
+| brokenpath | - |
+| btx1 | btx2, btx3, btx4, btx5, btx6 |
 | betrayed_beta | - |
 | between | - |
 | bh1_l1-bm | bh1_l2 |
@@ -79,10 +73,8 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | breakout_extended | - |
 | bridge | - |
 | bridge2k | - |
-| brokenpath | - |
 | bts_rc | - |
 | btw1 | btw2 |
-| btx1 | btx2, btx3, btx4, btx5, btx6 |
 | cad_ctraining | cad_lab1, cad_merged00, cad_merged01, cad_merged02, cad_merged03, cad_merged04, cad_merged05, cad_merged06, cad_merged07, cad_merged08, cad_merged09, cad_outro |
 | caged-1 | caged-2, caged-3, caged_bonus |
 | case1 | case2, case3, case4, case5, case6, case7, case8, case9 |
@@ -113,7 +105,6 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | cwc1 | cwc2, cwc3, cwc3a, cwc4, cwc4a |
 | cwcr1a | cwcr1b, cwcr2 |
 | d2_coast_10_xmas | - |
-| dark_life | - |
 | darkstar_merged01 | darkstar_merged02, darkstar_merged03, darkstar_merged04, darkstar_merged05 |
 | dbjr | - |
 | dbm_r_1 | - |
@@ -153,11 +144,11 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | extraction_a1 | extraction_a2 |
 | fail-mountain | - |
 | fail-mountain-20260531 | - |
+| ffl_a | ffl_b |
 | failure_1 | failure_2, failure_3 |
 | fallback_fire1 | fallback_fire2 |
 | fallback_ice1 | fallback_ice2, fallback_ice3 |
 | fate0 | fate1, fate2, fate3 |
-| ffl_a | ffl_b |
 | fi_lobby | fi_c01_a1, fi_c01_a2, fi_c02_a1, fi_c02_a2, fi_c03_a1, fi_c03_a2, fi_c03_a3, fi_c04_a1, fi_c04_a2, fi_c05_a1, fi_c05_a2, fi_c06_a1, fi_c06_a2, fi_c06_a3, fi_c07_a1, fi_c07_a2, fi_c07_a3, fi_c08_a1, fi_c08_a2, fi_c09_a1, fi_c09_a2, fi_c10_a1, fi_c10_a2 |
 | fortified1 | - |
 | gash | - |
@@ -207,6 +198,7 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | kyper-kuutio1 | kyper-kuutio2 |
 | labflee | - |
 | last | last2, last3, last4 |
+| dark_life | - |
 | left_life | - |
 | leprechaun1 | leprechaun2, leprechaun3, leprechaun3-2 |
 | letonguebasev3 | - |
@@ -216,6 +208,8 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | lostmaze | - |
 | lv_colony | - |
 | matmanizm | - |
+| moria | - |
+| moria_sc | - *(admin only — versão antiga sem secrets, repetitivo)* |
 | mboxv3 | - |
 | meat_of_yas | - |
 | megamonstermassacre | megamonstermassacre2 |
@@ -229,8 +223,6 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | mmm_v2 | - |
 | mommamesa | - |
 | monsterdok_r | - |
-| moria | - |
-| moria_sc | - *(admin only — versão antiga sem secrets, repetitivo)* |
 | murks | - |
 | music | - |
 | mustard | - |
@@ -383,10 +375,10 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | sledge | - |
 | smashtv_beta | - |
 | snd | - |
+| spaceprisoner | spaceprisoner2 |
 | sneed_v3_summer | - |
 | sneed_v3_winter | - |
 | sniper4 | - |
-| spaceprisoner | spaceprisoner2 |
 | squad_gman | - |
 | square_run | - |
 | stadium4 | - |
@@ -467,6 +459,7 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | xt-tower | - |
 | yabma | - |
 | zero | - |
+
 
 ---
 
