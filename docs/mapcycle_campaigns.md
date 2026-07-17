@@ -467,6 +467,13 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | xt-tower | - |
 | yabma | - |
 | zero | - |
+
+---
+
+## Mapas removidos do mapcycle
+
+Mapas que foram instalados mas removidos do ciclo por problemas identificados. Mantidos aqui para evitar reinclusão acidental.
+
 | Arquivo | BSPs incluídos | Data remoção | Motivo |
 |---|---|---|---|
 | `KPM.zip` | `kpm`, `killer_arena`, `killer_cinema`, `killer_interrogation` | 17/04/2026 | Pack abandonado pelo autor. Disponível no Sven Co-op Map DB mas incompleto: sem missões, sem explicações e com falta de texturas. |
