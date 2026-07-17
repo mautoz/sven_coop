@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 17/07/2026 — 441 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 17/07/2026 — 445 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -252,6 +252,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | peanyworld_r_1-1 | peanyworld_r_1-2, peanyworld_r_2-1a, peanyworld_r_2-1b, peanyworld_r_2-2 |
 | pizza_ya_san1 | pizza_ya_san2 |
 | pointless_b2 | - |
+| pof0 | pof0a, pof1, pof2, pof3, pof4, pof5 |
 | poke646_lobby | po_intro, po_c0m1, po_c0m2, po_c0m3, po_c1m1, po_c1m2, po_c1m3, po_c1m4, po_c2m1, po_c2m2, po_c2m3, po_c2m4, po_c2m5, po_c3m1, po_c3m2, po_c3m3, po_c3m4, po_c3m5, po_c3m6, po_c3m7, po_c3m8, po_c4m1, po_c4m2, po_c4m3, po_c4m4, po_c4m5, po_c5m1, po_outro, pv_intro, pv_c1m1, pv_c1m2, pv_c1m3, pv_c1m4, pv_c1m5, pv_c2m1, pv_c2m2, pv_c2m3, pv_c2m4, pv_c2m5, pv_c3m1, pv_c3m2, pv_outro |
 | polar_rescue | - |
 | pql_1 | pql_2, pql_3, pql_4, pql_4a, pql_5, pql_6, pql_7, pql_8 |
@@ -396,6 +397,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | tb_caves | - |
 | tc_1 | - |
 | th_after_event | - |
+| th_frontline | - |
 | th_ep1_00 | th_ep1_01, th_ep1_02, th_ep1_03, th_ep1_04, th_ep1_05 |
 | th_ep2_00 | th_ep2_01, th_ep2_02, th_ep2_03, th_ep2_04 |
 | th_ep3_00 | th_ep3_01, th_ep3_02, th_ep3_03, th_ep3_04, th_ep3_05, th_ep3_06, th_ep3_07 |
