@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 13/07/2026 — 441 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 17/07/2026 — 441 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -16,23 +16,36 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 
 | Mapcycle (1º mapa) | Mapas vinculados (sequência) |
 |---|---|
+
+
+---
+
+## Mapas removidos do mapcycle
+
+Mapas que foram instalados mas removidos do ciclo por problemas identificados. Mantidos aqui para evitar reinclusão acidental.
+
 | -sp_campaign_portal | - |
 | 300 | - |
+| 5am | - |
 | 5minutes_b1 | - |
 | 5waystodie1-2 | - |
 | 7hourswarep1-2m | - |
+| 7hw_killing_combines | - |
 | abandoned | - |
 | abeyance | - |
 | accesspoint | - |
 | adams_dungeon | - |
+| adams_dungeon-20231225 | - |
 | adams_puzzles_beta2 | - |
 | adato1 | - |
+| afraidofmonsters_lobby | - |
 | afrikakorps-bonus | - |
 | afrikakorps1-3m | - |
 | albulena | - |
 | alienshooter_demo | - |
 | aniquilacion | - |
 | arcad2_v1 | - |
+| arcad_2v1 | - |
 | arcad_v1 | arcad2_v1 |
 | arctic_incident_1 | arctic_incident_2 |
 | ascii_art | ascii_art2 |
@@ -44,7 +57,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | ayakashi_banquet | - |
 | back_whispers_1_v2 | back_whispers_2_v2, back_whispers_3_v2 |
 | base_attack | - |
-| btx1 | btx2, btx3, btx4, btx5, btx6 |
 | betrayed_beta | - |
 | between | - |
 | bh1_l1-bm | bh1_l2 |
@@ -67,13 +79,17 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | breakout_extended | - |
 | bridge | - |
 | bridge2k | - |
+| brokenpath | - |
 | bts_rc | - |
 | btw1 | btw2 |
+| btx1 | btx2, btx3, btx4, btx5, btx6 |
 | cad_ctraining | cad_lab1, cad_merged00, cad_merged01, cad_merged02, cad_merged03, cad_merged04, cad_merged05, cad_merged06, cad_merged07, cad_merged08, cad_merged09, cad_outro |
 | caged-1 | caged-2, caged-3, caged_bonus |
 | case1 | case2, case3, case4, case5, case6, case7, case8, case9 |
 | cassault1 | - |
 | central_bunker_r6 | - |
+| cg_xv | - |
+| chan_toybox | - |
 | chdeep0 | chdeep0a, chdeep0b, chdeep0c, chdeep0d, chdeep1, chdeep2, chdeep3, chdeep4, chdeep5, chdeep6, chdeep7, chdeep8, chdeep9, chdeep10, chdeep11, chdeep12, chdeep13, chdeep14, chdeep15, chdeep16, chdeep17, chdeep18, chdeep19, chdeep_train |
 | civildefence | - |
 | clockwork | - |
@@ -97,13 +113,16 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | cwc1 | cwc2, cwc3, cwc3a, cwc4, cwc4a |
 | cwcr1a | cwcr1b, cwcr2 |
 | d2_coast_10_xmas | - |
+| dark_life | - |
 | darkstar_merged01 | darkstar_merged02, darkstar_merged03, darkstar_merged04, darkstar_merged05 |
 | dbjr | - |
+| dbm_r_1 | - |
 | deadsimpleneo2 | - |
 | deathwish | - |
 | deltar | - |
 | deluge_beta_v3 | - |
 | desastre | desastre_cap1, desastre_cap2, desastre_cap3, desastre_cap4, desastre_cap5, desastre_cap6, desastre_cap7, desastre_cap8 |
+| desertbus_v1a | - |
 | desertcircle | - |
 | desk | - |
 | desolation | desolationp2 |
@@ -133,14 +152,16 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | extension | - |
 | extraction_a1 | extraction_a2 |
 | fail-mountain | - |
-| ffl_a | ffl_b |
+| fail-mountain-20260531 | - |
 | failure_1 | failure_2, failure_3 |
 | fallback_fire1 | fallback_fire2 |
 | fallback_ice1 | fallback_ice2, fallback_ice3 |
 | fate0 | fate1, fate2, fate3 |
+| ffl_a | ffl_b |
 | fi_lobby | fi_c01_a1, fi_c01_a2, fi_c02_a1, fi_c02_a2, fi_c03_a1, fi_c03_a2, fi_c03_a3, fi_c04_a1, fi_c04_a2, fi_c05_a1, fi_c05_a2, fi_c06_a1, fi_c06_a2, fi_c06_a3, fi_c07_a1, fi_c07_a2, fi_c07_a3, fi_c08_a1, fi_c08_a2, fi_c09_a1, fi_c09_a2, fi_c10_a1, fi_c10_a2 |
 | fortified1 | - |
 | gash | - |
+| gausslabbeta2 | - |
 | gitfest-1g | gitfest-2g |
 | halloween_construction | - |
 | halloween_hauntedhouse | - |
@@ -150,8 +171,10 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | hauntedsouls-b1 | hauntedsouls-b2, hauntedsouls-b3, hauntedsouls-b4, hauntedsouls-b5, hauntedsouls-b6, hauntedsouls-b7, hauntedsouls-b7a, hauntedsouls-b8 |
 | hauntedsouls-c1 | hauntedsouls-c2, hauntedsouls-c3, hauntedsouls-c4, hauntedsouls-c5, hauntedsouls-c5a, hauntedsouls-c6 |
 | hauntedsouls-d1 | hauntedsouls-d2, hauntedsouls-d3, hauntedsouls-d4, hauntedsouls-d5, hauntedsouls-d6, hauntedsouls-d7, hauntedsouls-d8 |
+| hc2_a1 | - |
 | he1 | he2, he3 |
 | hellbound | - |
+| hi_c1_l1 | - |
 | hl_c00 | hl_c01_a1, hl_c01_a2, hl_c02_a1, hl_c02_a2, hl_c03, hl_c04, hl_c05_a1, hl_c05_a2, hl_c05_a3, hl_c06, hl_c07_a1, hl_c07_a2, hl_c08_a1, hl_c08_a2, hl_c09, hl_c10, hl_c11_a1, hl_c11_a2, hl_c11_a3, hl_c12_a1, hl_c12_a2, hl_c13_a1, hl_c13_a2, hl_c13_a3, hl_c13_a4, hl_c14, hl_c15, hl_c16_a1, hl_c16_a2, hl_c16_a3, hl_c16_a4, hl_c17, hl_c18 |
 | hlbar_canteen | - |
 | hlcomando_1 | hlcomando_2, hlcomando_3, hlcomando_4, hlcomando_5 |
@@ -175,6 +198,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | it_has_leaks | - |
 | judgement | - |
 | jumpers | - |
+| justify_this | - |
 | keen_birthday_part1_beta | keen_birthday_part2, keen_birthday_part2_2 |
 | keencity_r | - |
 | keencityspace_r | - |
@@ -183,17 +207,15 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | kyper-kuutio1 | kyper-kuutio2 |
 | labflee | - |
 | last | last2, last3, last4 |
-| dark_life | - |
 | left_life | - |
 | leprechaun1 | leprechaun2, leprechaun3, leprechaun3-2 |
 | letonguebasev3 | - |
 | ll_hc | ll_0, ll_1a1a, ll_1a1b, ll_1a2, ll_1a3, ll_2a1, ll_2a2, ll_2a3, ll_2a4a, ll_2a4b, ll_2a5, ll_3a1, ll_3a2 |
 | lobbyjumpingv1 | - |
+| lost-world | - |
 | lostmaze | - |
 | lv_colony | - |
 | matmanizm | - |
-| moria | - |
-| moria_sc | - *(admin only — versão antiga sem secrets, repetitivo)* |
 | mboxv3 | - |
 | meat_of_yas | - |
 | megamonstermassacre | megamonstermassacre2 |
@@ -207,6 +229,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | mmm_v2 | - |
 | mommamesa | - |
 | monsterdok_r | - |
+| moria | - |
+| moria_sc | - *(admin only — versão antiga sem secrets, repetitivo)* |
 | murks | - |
 | music | - |
 | mustard | - |
@@ -246,8 +270,12 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | ragemap2016 | - |
 | ragemap3_1_beta | - |
 | rampage | - |
+| rc_arena | - |
+| rc_deathmatch | - |
+| rc_deathmatch2 | - |
 | rc_towerdefense | - |
 | rede0 | rede1, rede2, rede3, rede4, rede5, rede6_1, rede7, rede8 |
+| resist1 | - |
 | resistance | - |
 | restriction01 | restriction02, restriction03, restriction04, restriction05, restriction06, restriction07, restriction08, restriction09, restriction10 |
 | rhapsody_b1_1 | rhapsody_b2_1, rhapsody3_beta1 |
@@ -256,6 +284,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | richard_boderman_r | - |
 | rl0 | rl1, rl2, rl3, rl4a_1, rl4b, rl5a, rl5b, rl6, rl7, rl8, rl9, rl9b, rl10, rl10b2, rl11, rl11b, rl12, rl12b, rl13, rl14, rl15, rl16, rl17, rl18, rl19, rl20 |
 | rl_merged_01 | rl_merged_02, rl_merged_03, rl_merged_04, rl_merged_05_r1, rl_merged_05_r2, rl_merged_06, rl_merged_07, rl_merged_08 |
+| robloxhome | - |
 | ruin_of_yas | - |
 | run3_r | - |
 | rv_c2ac1_fd | rv_c2ac2c_v1, rv_c2ac2_v2 |
@@ -274,6 +303,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_crazylab_final | - |
 | sc_dark_seekers_final | sc_dark_seekers_2_final |
 | sc_defend_base3a_en | - |
+| sc_defmap_v3 | - |
 | sc_doc | - |
 | sc_dojo_v2 | - |
 | sc_egypt | sc_egypt2 |
@@ -290,8 +320,10 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_intensity | - |
 | sc_laundromat_v2 | - |
 | sc_mazing | - |
+| sc_minecraft_wild_ride | - |
 | sc_mirage1 | - |
 | sc_night | - |
+| sc_npp | - |
 | sc_nuclear_b01 | - |
 | sc_persia | - |
 | sc_phantasmish_beta | - |
@@ -339,6 +371,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | secrethunt1 | secrethunt2_r |
 | secretlab_r | - |
 | sectore_1 | sectore_2, sectore_3, sectore_4, sectore_5 |
+| sectore_level_1 | - |
 | sewer_systematic | - |
 | shadv1 | shadv2, shadv3 |
 | shanghai | - |
@@ -350,11 +383,12 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sledge | - |
 | smashtv_beta | - |
 | snd | - |
-| spaceprisoner | spaceprisoner2 |
 | sneed_v3_summer | - |
 | sneed_v3_winter | - |
 | sniper4 | - |
+| spaceprisoner | spaceprisoner2 |
 | squad_gman | - |
+| square_run | - |
 | stadium4 | - |
 | stfu_and_climb | - |
 | storagearea2 | - |
@@ -367,18 +401,25 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | svor01-2 | - |
 | swars_installation | - |
 | t0a0 | t0a0a, t0a0b1, t0a0b2, t0a0c, t0a0d |
+| tb_caves | - |
+| tc_1 | - |
+| th_after_event | - |
 | th_ep1_00 | th_ep1_01, th_ep1_02, th_ep1_03, th_ep1_04, th_ep1_05 |
 | th_ep2_00 | th_ep2_01, th_ep2_02, th_ep2_03, th_ep2_04 |
 | th_ep3_00 | th_ep3_01, th_ep3_02, th_ep3_03, th_ep3_04, th_ep3_05, th_ep3_06, th_ep3_07 |
 | th_escape | - |
 | the-climb | the-climb2, the-climb3 |
+| the_cemetery | - |
 | the_crypt | - |
 | the_daikon_warfare1 | the_daikon_warfare2, the_daikon_warfare3 |
 | the_prison_v2 | - |
 | the_room_demo | - |
 | thebackdoor | - |
+| thedoormonster | - |
+| them | - |
 | theonlywayisup | - |
 | thewinery | - |
+| theyrhungry | - |
 | toadsnatch | - |
 | toonrun1 | toonrun2, toonrun3 |
 | touhou_hakureijinja | - |
@@ -400,6 +441,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | ub_megaman1-3 | - |
 | ub_nagoya_v2 | - |
 | uboa | - |
+| uboa_argentino1-2 | - |
 | uboa_bossrush | - |
 | uboa_rampage | uboa_rampage_II |
 | uboabrasil | - |
@@ -425,14 +467,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | xt-tower | - |
 | yabma | - |
 | zero | - |
-
-
----
-
-## Mapas removidos do mapcycle
-
-Mapas que foram instalados mas removidos do ciclo por problemas identificados. Mantidos aqui para evitar reinclusão acidental.
-
 | Arquivo | BSPs incluídos | Data remoção | Motivo |
 |---|---|---|---|
 | `KPM.zip` | `kpm`, `killer_arena`, `killer_cinema`, `killer_interrogation` | 17/04/2026 | Pack abandonado pelo autor. Disponível no Sven Co-op Map DB mas incompleto: sem missões, sem explicações e com falta de texturas. |
