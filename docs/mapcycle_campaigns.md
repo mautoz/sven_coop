@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 17/07/2026 — 445 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 27/07/2026 — 450 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -58,7 +58,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | black_haze | - |
 | blackfacility | - |
 | blackfacility2 | - |
-| blackmesaclassic | blackmesaclassic2, blackmesaclassic3 |
+| d1_town_01 | d1_town_01a, d1_town_02, d1_town_02a, d1_town_02b, d1_town_03, d1_town_04, d1_town_05 |
+| d2_prison_1 | d2_prison_002 |
 | blackmesaepf | - |
 | blackops | - |
 | bm64-abc | - |
@@ -190,6 +191,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | judgement | - |
 | jumpers | - |
 | justify_this | - |
+| justzombies | justmilitary, justmansion, justislave |
 | keen_birthday_part1_beta | keen_birthday_part2, keen_birthday_part2_2 |
 | keencity_r | - |
 | keencityspace_r | - |
@@ -198,6 +200,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | kyper-kuutio1 | kyper-kuutio2 |
 | labflee | - |
 | last | last2, last3, last4 |
+| lastunic_1 | lastunic_2, lastunic_3, lastunic_4, lastunic_5, lastunic_6, lastunic_7, lastunic_8 |
 | dark_life | - |
 | left_life | - |
 | leprechaun1 | leprechaun2, leprechaun3, leprechaun3-2 |
@@ -281,6 +284,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | ruin_of_yas | - |
 | run3_r | - |
 | rv_c2ac1_fd | rv_c2ac2c_v1, rv_c2ac2_v2 |
+| sa13_1 | sa13_2, sa13_3, sa13_4, sa13_5, sa13_6, sa13_7, sa13_8, sa13_9, sa13_10, sa13_11, sa13_12, sa13_13, sa13_14, sa13_15, sa13_16, sa13_17 |
 | sandstone | - |
 | santas_workshop | santas_workshop_pt2 |
 | sc_activist-1 | sc_activist-2 |
@@ -315,6 +319,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_mazing | - |
 | sc_minecraft_wild_ride | - |
 | sc_mirage1 | - |
+| sc_mysteryhouse | - |
 | sc_night | - |
 | sc_npp | - |
 | sc_nuclear_b01 | - |
