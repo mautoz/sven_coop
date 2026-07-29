@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 27/07/2026 — 450 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 29/07/2026 — 471 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -35,14 +35,18 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | afrikakorps1-3m | - |
 | albulena | - |
 | alienshooter_demo | - |
+| ani1 | ani2, ani3, ani4 |
 | aniquilacion | - |
 | arcad2_v1 | - |
 | arcad_2v1 | - |
 | arcad_v1 | arcad2_v1 |
+| Arena_Wildlife_Annex | - |
 | arctic_incident_1 | arctic_incident_2 |
 | ascii_art | ascii_art2 |
+| asmerged00 | asmerged01, asmerged02, asmerged03_1, asmerged03_2, asmerged03_3, asmerged04_1, asmerged04_2, asmerged05_1, asmerged05_2, asmerged05_3, asmerged06, asmerged07, asmerged08, asmerged09, asmerged10_1, asmerged10_2, asmerged11, asmerged12 |
 | assaultmesa2 | assaultmesa2-2 |
 | ast_r_1 | ast_r_2 |
+| aunit_1 | aunit_2, aunit_3, aunit_4, aunit_5 |
 | auspices | - |
 | autonomy_lost1 | autonomy_lost2, autonomy_lost3, autonomy_lost4, autonomy_lost5 |
 | awaken1 | awaken2, awaken3 |
@@ -53,6 +57,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | btx1 | btx2, btx3, btx4, btx5, btx6 |
 | betrayed_beta | - |
 | between | - |
+| between_elvis | between_elvis_lg |
+| between_elvis_r4 | - |
 | bh1_l1-bm | bh1_l2 |
 | biglolly1-5m | - |
 | black_haze | - |
@@ -62,6 +68,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | d2_prison_1 | d2_prison_002 |
 | blackmesaepf | - |
 | blackops | - |
+| bluecell_r | - |
 | bm64-abc | - |
 | bm_nightmare_a_final | bm_nightmare_b_final, bm_nightmare_c_final, bm_nightmare_d_final |
 | bm_sts | - |
@@ -89,11 +96,13 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | clonelab | - |
 | cocyx_box | - |
 | commap1 | commap2, commap3, commap4, commap5, commap6, commap7 |
+| complex | - |
 | conundrum3_huba | conundrum3_hubb, conundrum3_hubc, conundrum3_hubd, conundrum3_hube, conundrum3_1, conundrum3_2, conundrum3_3, conundrum3_4, conundrum3_5, conundrum3_6, conundrum3_7, conundrum3_8, conundrum3_9, conundrum3_10, conundrum3_11, conundrum3_12 |
 | cr_wayne_v2 | - |
 | cra_a4 | - |
 | crablegs | - |
 | crimecity | - |
+| crisis1-2m | - |
 | croodcoop | - |
 | crossedpaths1 | crossedpaths2, crossedpaths3 |
 | crystal | crystal2 |
@@ -112,6 +121,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | deadsimpleneo2 | - |
 | deathwish | - |
 | deltar | - |
+| deltareturn | - |
 | deluge_beta_v3 | - |
 | desastre | desastre_cap1, desastre_cap2, desastre_cap3, desastre_cap4, desastre_cap5, desastre_cap6, desastre_cap7, desastre_cap8 |
 | desertbus_v1a | - |
@@ -143,6 +153,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | extended | - |
 | extension | - |
 | extraction_a1 | extraction_a2 |
+| extreme_uboa_t | - |
 | fail-mountain | - |
 | fail-mountain-20260531 | - |
 | ffl_a | ffl_b |
@@ -152,9 +163,12 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | fate0 | fate1, fate2, fate3 |
 | fi_lobby | fi_c01_a1, fi_c01_a2, fi_c02_a1, fi_c02_a2, fi_c03_a1, fi_c03_a2, fi_c03_a3, fi_c04_a1, fi_c04_a2, fi_c05_a1, fi_c05_a2, fi_c06_a1, fi_c06_a2, fi_c06_a3, fi_c07_a1, fi_c07_a2, fi_c07_a3, fi_c08_a1, fi_c08_a2, fi_c09_a1, fi_c09_a2, fi_c10_a1, fi_c10_a2 |
 | fortified1 | - |
+| frostline_v1r2 | - |
 | gash | - |
 | gausslabbeta2 | - |
 | gitfest-1g | gitfest-2g |
+| grunts_course | - |
+| gyudon_addict | - |
 | halloween_construction | - |
 | halloween_hauntedhouse | - |
 | halloween_hospital | - |
@@ -178,6 +192,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | icestormx | - |
 | incoming | - |
 | infested | infested2 |
+| infiltrate | - |
 | infinite_rift1 | infinite_rift2, infinite_rift3, infinite_rift4 |
 | inhuman | - |
 | instinct_r_1 | instinct_r_2, instinct_r_3, instinct_r_4 |
@@ -205,6 +220,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | left_life | - |
 | leprechaun1 | leprechaun2, leprechaun3, leprechaun3-2 |
 | letonguebasev3 | - |
+| life_send1 | life_send2, life_send3, life_send4, life_send5, life_send6, life_send7, life_send8, life_send9, life_send_ending |
 | ll_hc | ll_0, ll_1a1a, ll_1a1b, ll_1a2, ll_1a3, ll_2a1, ll_2a2, ll_2a3, ll_2a4a, ll_2a4b, ll_2a5, ll_3a1, ll_3a2 |
 | lobbyjumpingv1 | - |
 | lost-world | - |
@@ -234,6 +250,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | nintai_subway | - |
 | nira1 | - |
 | nm_darkisland | - |
+| nm_helmsdeep | - |
 | nm_moria | - |
 | nm_uspninjas | - |
 | nohope1 | nohope2, nohope3 |
@@ -259,6 +276,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | poke646_lobby | po_intro, po_c0m1, po_c0m2, po_c0m3, po_c1m1, po_c1m2, po_c1m3, po_c1m4, po_c2m1, po_c2m2, po_c2m3, po_c2m4, po_c2m5, po_c3m1, po_c3m2, po_c3m3, po_c3m4, po_c3m5, po_c3m6, po_c3m7, po_c3m8, po_c4m1, po_c4m2, po_c4m3, po_c4m4, po_c4m5, po_c5m1, po_outro, pv_intro, pv_c1m1, pv_c1m2, pv_c1m3, pv_c1m4, pv_c1m5, pv_c2m1, pv_c2m2, pv_c2m3, pv_c2m4, pv_c2m5, pv_c3m1, pv_c3m2, pv_outro |
 | polar_rescue | - |
 | pql_1 | pql_2, pql_3, pql_4, pql_4a, pql_5, pql_6, pql_7, pql_8 |
+| preperation_x | preperation_x2, preperation_x3 |
+| preperation_y | preperation_y2, preperation_y3 |
 | prisoned1a | prisoned1b, prisoned2 |
 | projectguilty1 | projectguilty2, projectguilty3 |
 | quarter | - |
@@ -294,8 +313,11 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_avp1-4m | - |
 | sc_aztec | - |
 | sc_caget | - |
+| sc_campfire | - |
 | sc_carpodacus_carnage | sc_carpodacus_carnage2, sc_carpodacus_carnage3, sc_carpodacus_carnage3_2 |
 | sc_castlerat_v1 | - |
+| sc_castlevania | - |
+| sc_complex | - |
 | sc_contratosc_c1_beta | - |
 | sc_crazylab_final | - |
 | sc_dark_seekers_final | sc_dark_seekers_2_final |
@@ -308,6 +330,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_er | sc_er2 |
 | sc_face | - |
 | sc_fathom24 | - |
+| sc_frostfire_beta1 | - |
 | sc_fuga | warningcitymulp, warningcity2mulp, warningcity3mulp, warningc, llampyalto, dejabu |
 | sc_grapplejumps | - |
 | sc_greysnake1 | - |
