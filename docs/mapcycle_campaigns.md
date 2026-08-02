@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 29/07/2026 — 471 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 01/08/2026 — 472 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -275,6 +275,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | pof0 | pof0a, pof1, pof2, pof3, pof4, pof5 |
 | poke646_lobby | po_intro, po_c0m1, po_c0m2, po_c0m3, po_c1m1, po_c1m2, po_c1m3, po_c1m4, po_c2m1, po_c2m2, po_c2m3, po_c2m4, po_c2m5, po_c3m1, po_c3m2, po_c3m3, po_c3m4, po_c3m5, po_c3m6, po_c3m7, po_c3m8, po_c4m1, po_c4m2, po_c4m3, po_c4m4, po_c4m5, po_c5m1, po_outro, pv_intro, pv_c1m1, pv_c1m2, pv_c1m3, pv_c1m4, pv_c1m5, pv_c2m1, pv_c2m2, pv_c2m3, pv_c2m4, pv_c2m5, pv_c3m1, pv_c3m2, pv_outro |
 | polar_rescue | - |
+| portal_house_a1_r | portal_house_a2_r, portal_house_a3_r, portal_house_a4_r, portal_house_b_r, portal_house_c_r, portal_house_d_r, portal_house_a1_climax_r, portal_house_a2_climax_r, portal_house_a3_climax_r, portal_house_a4_climax_r, portal_house_c_climax_r |
 | pql_1 | pql_2, pql_3, pql_4, pql_4a, pql_5, pql_6, pql_7, pql_8 |
 | preperation_x | preperation_x2, preperation_x3 |
 | preperation_y | preperation_y2, preperation_y3 |
