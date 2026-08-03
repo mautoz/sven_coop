@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 01/08/2026 — 472 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 02/08/2026 — 478 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -266,6 +266,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | oprv1-1 | oprv1-2 |
 | oprv2-1 | oprv2-2 |
 | ops_intro | ops_club, ops_credits, ops_ctown, ops_ep, ops_escape, ops_hq, ops_industry, ops_jail, ops_sewer, ops_street, ops_subway, ops_wareh |
+| osd_r_1 | osd_r_2, osd_r_3, osd_r_4 |
 | osprey | - |
 | osprey_company | - |
 | otokotati_no_kouzan | - |
@@ -311,6 +312,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_another | - |
 | sc_anotherv2_beta | - |
 | sc_argentina-series | sc_argentina-series2, sc_argentina-series3, sc_argentina-series4 |
+| sc_assault | - |
 | sc_avp1-4m | - |
 | sc_aztec | - |
 | sc_caget | - |
@@ -331,6 +333,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_er | sc_er2 |
 | sc_face | - |
 | sc_fathom24 | - |
+| sc_fortress_r | - |
 | sc_frostfire_beta1 | - |
 | sc_fuga | warningcitymulp, warningcity2mulp, warningcity3mulp, warningc, llampyalto, dejabu |
 | sc_grapplejumps | - |
@@ -349,6 +352,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_nuclear_b01 | - |
 | sc_persia | - |
 | sc_phantasmish_beta | - |
+| sc_powernode | - |
 | sc_psyko | - |
 | sc_rats_test2 | - |
 | sc_reactivist | - |
@@ -415,6 +419,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | stfu_and_climb | - |
 | storagearea2 | - |
 | subsurface | - |
+| surfacerun | - |
 | suspension | - |
 | sv_crystal_mission_1a | sv_crystal_mission_2a, sv_crystal_mission_3a, sv_crystal_mission_4a |
 | sv_question | - |
@@ -435,6 +440,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | the_cemetery | - |
 | the_crypt | - |
 | the_daikon_warfare1 | the_daikon_warfare2, the_daikon_warfare3 |
+| The_Dust | - |
 | the_prison_v2 | - |
 | the_room_demo | - |
 | thebackdoor | - |
