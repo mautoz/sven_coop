@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 02/08/2026 — 478 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 06/08/2026 — 480 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -291,6 +291,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | rc_deathmatch | - |
 | rc_deathmatch2 | - |
 | rc_towerdefense | - |
+| reco | - |
 | rede0 | rede1, rede2, rede3, rede4, rede5, rede6_1, rede7, rede8 |
 | resist1 | - |
 | resistance | - |
@@ -484,7 +485,9 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | uplink | - |
 | uplink_extended_r | - |
 | urbicide_01 | urbicide_02, urbicide_03, urbicide_04, urbicide_05, urbicide_06, urbicide_07, urbicide_07b, urbicide_08, urbicide_09 |
-| vger | vger2beta1 |
+| vger | - |
+| vger2beta1 | - |
+| vis01 | vis02, vis03, vis04, vis05, vis06, vis07, vis08, vis09, vis10 |
 | volt2 | - |
 | want_1 | want_2, want_3, want_4, want_5, want_6, want_7, want_8, want_9, want_9a, want_10, want_11, want_12, want_13 |
 | why1 | - |
