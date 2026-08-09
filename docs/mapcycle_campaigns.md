@@ -134,6 +134,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | donaldtrump2016 | - |
 | doomfest_merged | - |
 | dread | - |
+| duckhunt_2008 | - |
 | durga | - |
 | dy_accident1 | dy_accident2, dy_alien, dy_dampen, dy_dorms, dy_focus, dy_fubar, dy_hazard, dy_lasers, dy_outro, dy_signal, dy_uplink |
 | echoes-0 | echoes-1, echoes-2, echoes-3, echoes-4, echoes-5, echoes-6_1, echoes-7, echoes-8, echoes-9, echoes-10, echoes-11, echoes-12, echoes-13, echoes-14 |
@@ -295,7 +296,9 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | rede0 | rede1, rede2, rede3, rede4, rede5, rede6_1, rede7, rede8 |
 | resist1 | - |
 | resistance | - |
+| ressya_no_tabi | - |
 | restriction01 | restriction02, restriction03, restriction04, restriction05, restriction06, restriction07, restriction08, restriction09, restriction10 |
+| revers_hl_c00 | revers_hl_c01_a1, revers_hl_c01_a2, revers_hl_c02_a1, revers_hl_c02_a2, revers_hl_c03, revers_hl_c04, revers_hl_c05_a1, revers_hl_c05_a2, revers_hl_c05_a3, revers_hl_c06, revers_hl_c07_a1, revers_hl_c07_a2, revers_hl_c08_a1, revers_hl_c08_a2, revers_hl_c09, revers_hl_c10, revers_hl_c11_a1, revers_hl_c11_a2, revers_hl_c11_a3, revers_hl_c11_a4, revers_hl_c11_a5, revers_hl_c12, revers_hl_c13_a1, revers_hl_c13_a2, revers_hl_c13_a3, revers_hl_c13_a4, revers_hl_c14, revers_hl_c15, revers_hl_c16_a1, revers_hl_c16_a2, revers_hl_c16_a3, revers_hl_c16_a4, revers_hl_c17, revers_hl_c18, revers_hl_t00 |
 | rhapsody_b1_1 | rhapsody_b2_1, rhapsody3_beta1 |
 | richard_boderbot | richard_boderbot2, richard_boderbot3, richard_boderbot4, richard_boderbot5 |
 | richard_boderman | - |
