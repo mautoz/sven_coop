@@ -473,7 +473,7 @@ osd_r_1
 sc_fortress_r
 sc_powernode
 surfacerun
-The_Dust
+the_dust
 sc_assault
 reco
 vis01
@@ -481,3 +481,6 @@ vger2beta1
 ressya_no_tabi
 duckhunt_2008
 revers_hl_c18
+te1
+eod1
+residual_point_lobby

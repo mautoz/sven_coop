@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 06/08/2026 — 479 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 18/08/2026 — 485 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -141,6 +141,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | ein1 | ein2, ein3 |
 | enc-1 | enc-2 |
 | enroute66 | - |
+| eod1 | eod2, eod3, eod4, eod5 |
 | escape_series | escape_series_1a, escape_series_1b |
 | escape_series_2a | escape_series_2b, escape_series_2c, escape_series_2d, escape_series_2e |
 | escape_series_3a | escape_series_3b, escape_series_3c, escape_series_3d, escape_series_3e |
@@ -294,6 +295,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | rc_towerdefense | - |
 | reco | - |
 | rede0 | rede1, rede2, rede3, rede4, rede5, rede6_1, rede7, rede8 |
+| residual_point_lobby | rp_c00_lobby, rp_c00, rp_c00_m1, rp_c00_m2, rp_c00_m3, rp_c00_m4, rp_c00_m5, rp_c01, rp_c02, rp_c03_m1, rp_c03_m2, rp_c04, rp_c05, rp_c06, rp_c07_m1, rp_c07_m2sewer, rp_c07_m2surface, rp_c08_m1sewer, rp_c08_m1surface, rp_c08_m2sewer, rp_c08_m2surface, rp_c08_m3, rp_c08_m3surface, rp_c08_m4, rp_c09, rp_c10_m1, rp_c11, rp_c12_m1, rp_c12_m3, rp_c13_m2a, rp_c13_m2b, rp_c13_m4, rp_c14, rps_surface (56 BSPs) |
 | resist1 | - |
 | resistance | - |
 | ressya_no_tabi | - |
@@ -434,6 +436,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | t0a0 | t0a0a, t0a0b1, t0a0b2, t0a0c, t0a0d |
 | tb_caves | - |
 | tc_1 | - |
+| te1 | te2, te3, te4, te5 |
 | th_after_event | - |
 | th_frontline | - |
 | th_ep1_00 | th_ep1_01, th_ep1_02, th_ep1_03, th_ep1_04, th_ep1_05 |
@@ -444,7 +447,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | the_cemetery | - |
 | the_crypt | - |
 | the_daikon_warfare1 | the_daikon_warfare2, the_daikon_warfare3 |
-| The_Dust | - |
+| the_dust | - |
 | the_prison_v2 | - |
 | the_room_demo | - |
 | thebackdoor | - |
