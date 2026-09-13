@@ -506,6 +506,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | wrongworld | - |
 | wrongworld2 | - |
 | xen_bossrush | - |
+| xenomorphic | - *(admin only — não está no mapcycle)* |
 | xenwalk | - |
 | xt-tower | - |
 | yabma | - |
