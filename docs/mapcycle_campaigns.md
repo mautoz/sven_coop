@@ -213,6 +213,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | keencity_r | - |
 | keencityspace_r | - |
 | kh1 | kh2, kh3, kh4, kh5, kh6fix2, kh7_preview |
+| kr_gunshop_v2 | - *(admin only — não está no mapcycle)* |
 | krypton1 | krypton2, krypton3, krypton4, krypton5, krypton6, krypton7 |
 | kyper-kuutio1 | kyper-kuutio2 |
 | labflee | - |
@@ -283,7 +284,10 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | preperation_x | preperation_x2, preperation_x3 |
 | preperation_y | preperation_y2, preperation_y3 |
 | prisoned1a | prisoned1b, prisoned2 |
+| prize1 | prize2 |
 | projectguilty1 | projectguilty2, projectguilty3 |
+| ptb2 | - *(admin only — não está no mapcycle)* |
+| push_the_button | - *(admin only — não está no mapcycle)* |
 | quarter | - |
 | ragemap | - |
 | ragemap2016 | - |
@@ -493,6 +497,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | urbicide_01 | urbicide_02, urbicide_03, urbicide_04, urbicide_05, urbicide_06, urbicide_07, urbicide_07b, urbicide_08, urbicide_09 |
 | vger | - |
 | vger2beta1 | - |
+| virtual | - |
 | vis01 | vis02, vis03, vis04, vis05, vis06, vis07, vis08, vis09, vis10 |
 | volt2 | - |
 | want_1 | want_2, want_3, want_4, want_5, want_6, want_7, want_8, want_9, want_9a, want_10, want_11, want_12, want_13 |
