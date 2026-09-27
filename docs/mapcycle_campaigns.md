@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 18/08/2026 — 485 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 27/09/2026 — 514 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -87,6 +87,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | caged-1 | caged-2, caged-3, caged_bonus |
 | case1 | case2, case3, case4, case5, case6, case7, case8, case9 |
 | cassault1 | - |
+| cd1 | cd2, cd3, cd4, cd5, cd6, cd_hub (loop) |
 | central_bunker_r6 | - |
 | cg_xv | - |
 | chan_toybox | - |
@@ -202,6 +203,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | inv_dojo | - |
 | invasion1_4m | - |
 | io_v1 | - |
+| ioh1 | ioh2, ioh3, ioh4, ioh5, ioh6, ioh7 |
+| ISS-555-Cargo | - |
 | irreality1 | irreality2 |
 | it1 | it2, it3, it4, it5, it6, it7, it8, it9, it10, it11 |
 | it_has_leaks | - |
@@ -322,6 +325,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_another | - |
 | sc_anotherv2_beta | - |
 | sc_argentina-series | sc_argentina-series2, sc_argentina-series3, sc_argentina-series4 |
+| sc_bunker-escape | - |
 | sc_assault | - |
 | sc_avp1-4m | - |
 | sc_aztec | - |
@@ -425,6 +429,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sniper4 | - |
 | squad_gman | - |
 | square_run | - |
+| stacja | - |
 | stadium4 | - |
 | stfu_and_climb | - |
 | storagearea2 | - |
@@ -440,6 +445,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | t0a0 | t0a0a, t0a0b1, t0a0b2, t0a0c, t0a0d |
 | tb_caves | - |
 | tc_1 | - |
+| TD-1 | TD-2, TD-3, TD-4, TD-5 |
 | te1 | te2, te3, te4, te5 |
 | th_after_event | - |
 | th_frontline | - |
@@ -448,6 +454,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | th_ep3_00 | th_ep3_01, th_ep3_02, th_ep3_03, th_ep3_04, th_ep3_05, th_ep3_06, th_ep3_07 |
 | th_escape | - |
 | the-climb | the-climb2, the-climb3 |
+| theylive | - |
 | the_cemetery | - |
 | the_crypt | - |
 | the_daikon_warfare1 | the_daikon_warfare2, the_daikon_warfare3 |
@@ -503,6 +510,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | want_1 | want_2, want_3, want_4, want_5, want_6, want_7, want_8, want_9, want_9a, want_10, want_11, want_12, want_13 |
 | why1 | - |
 | wired | - |
+| xaoc-novastation | - |
 | wrongworld | - |
 | wrongworld2 | - |
 | xen_bossrush | - |
