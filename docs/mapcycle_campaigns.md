@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 27/09/2026 — 514 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 27/09/2026 — 516 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -34,6 +34,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | afrikakorps-bonus | - |
 | afrikakorps1-3m | - |
 | albulena | - |
+| alien_gate | - |
 | alienshooter_demo | - |
 | ani1 | ani2, ani3, ani4 |
 | aniquilacion | - |
@@ -502,6 +503,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | uplink | - |
 | uplink_extended_r | - |
 | urbicide_01 | urbicide_02, urbicide_03, urbicide_04, urbicide_05, urbicide_06, urbicide_07, urbicide_07b, urbicide_08, urbicide_09 |
+| uwa | - |
 | vger | - |
 | vger2beta1 | - |
 | virtual | - |
