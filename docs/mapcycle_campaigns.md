@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 27/09/2026 — 516 entradas no mapcycle (VPS real). Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 25/10/2026 — 517 entradas no mapcycle (VPS real), 506 campanhas no site. Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -44,7 +44,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | Arena_Wildlife_Annex | - |
 | arctic_incident_1 | arctic_incident_2 |
 | ascii_art | ascii_art2 |
-| asmerged00 | asmerged01, asmerged02, asmerged03_1, asmerged03_2, asmerged03_3, asmerged04_1, asmerged04_2, asmerged05_1, asmerged05_2, asmerged05_3, asmerged06, asmerged07, asmerged08, asmerged09, asmerged10_1, asmerged10_2, asmerged11, asmerged12 |
 | assaultmesa2 | assaultmesa2-2 |
 | ast_r_1 | ast_r_2 |
 | aunit_1 | aunit_2, aunit_3, aunit_4, aunit_5 |
@@ -52,6 +51,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | autonomy_lost1 | autonomy_lost2, autonomy_lost3, autonomy_lost4, autonomy_lost5 |
 | awaken1 | awaken2, awaken3 |
 | ayakashi_banquet | - |
+| azuresheep_c00a_mv2 | azuresheep_c00b_mv2, azuresheep_c01_mv2, azuresheep_c02a_mv2, azuresheep_c02b_mv2, azuresheep_c03a_mv2, azuresheep_c03b_mv2, azuresheep_c04_mv2, azuresheep_c05_mv2, azuresheep_c06_mv2, azuresheep_c07_mv2, azuresheep_c08_mv2, azuresheep_c09a_mv2, azuresheep_c09b_mv2, azuresheep_c10_mv2, azuresheep_c11_mv2 |
 | back_whispers_1_v2 | back_whispers_2_v2, back_whispers_3_v2 |
 | base_attack | - |
 | brokenpath | - |
@@ -88,7 +88,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | caged-1 | caged-2, caged-3, caged_bonus |
 | case1 | case2, case3, case4, case5, case6, case7, case8, case9 |
 | cassault1 | - |
-| cd1 | cd2, cd3, cd4, cd5, cd6, cd_hub (loop) |
+| cd_hub | cd1, cd2, cd3, cd4, cd5, cd6 (loop: cd6 volta ao cd_hub; o hub é o 1º e o último mapa — info do responsável pelo port, 25/10) |
 | central_bunker_r6 | - |
 | cg_xv | - |
 | chan_toybox | - |
@@ -118,6 +118,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | cwcr1a | cwcr1b, cwcr2 |
 | d2_coast_10_xmas | - |
 | darkstar_merged01 | darkstar_merged02, darkstar_merged03, darkstar_merged04, darkstar_merged05 |
+| davtrain-1 | davtrain-2 |
 | dbjr | - |
 | dbm_r_1 | - |
 | deadsimpleneo2 | - |
@@ -308,6 +309,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | resistance | - |
 | ressya_no_tabi | - |
 | restriction01 | restriction02, restriction03, restriction04, restriction05, restriction06, restriction07, restriction08, restriction09, restriction10 |
+| rev_hl_c17 | rev_hl_c16_a4, rev_hl_c16_a3, rev_hl_c16_a2, rev_hl_c16_a1, rev_hl_c15, rev_hl_c14, rev_hl_c13_a4, rev_hl_c13_a3, rev_hl_c13_a2, rev_hl_c13_a1, rev_hl_c12, rev_hl_c11_a5, rev_hl_c11_a4, rev_hl_c11_a3, rev_hl_c11_a2, rev_hl_c11_a1, rev_hl_c10, rev_hl_c09, rev_hl_c08_a2, rev_hl_c08_a1, rev_hl_c07_a2, rev_hl_c07_a1, rev_hl_c06, rev_hl_c05_a3, rev_hl_c05_a2, rev_hl_c05_a1, rev_hl_c04, rev_hl_c03, rev_hl_c02_a2, rev_hl_c02_a1, rev_hl_c01_a2, rev_hl_c01_a1 *(ordem reversa — FORA do mapcycle por ora (25/10): saída do c11_a4 leva ao hl_c11_a5; fix testado no local, aguardando decisão/resposta do autor)* |
 | revers_hl_c18 | revers_hl_c17, revers_hl_c16_a4, revers_hl_c16_a3, revers_hl_c16_a2, revers_hl_c16_a1, revers_hl_c15, revers_hl_c14, revers_hl_c13_a4, revers_hl_c13_a3, revers_hl_c13_a2, revers_hl_c13_a1, revers_hl_c12, revers_hl_c11_a5, revers_hl_c11_a4, revers_hl_c11_a3, revers_hl_c11_a2, revers_hl_c11_a1, revers_hl_c10, revers_hl_c09, revers_hl_c08_a2, revers_hl_c08_a1, revers_hl_c07_a2, revers_hl_c07_a1, revers_hl_c06, revers_hl_c05_a3, revers_hl_c05_a2, revers_hl_c05_a1, revers_hl_c04, revers_hl_c03, revers_hl_c02_a2, revers_hl_c02_a1, revers_hl_c01_a2, revers_hl_c01_a1, revers_hl_c00, revers_hl_t00 |
 | rhapsody_b1_1 | rhapsody_b2_1, rhapsody3_beta1 |
 | richard_boderbot | richard_boderbot2, richard_boderbot3, richard_boderbot4, richard_boderbot5 |
@@ -537,3 +539,4 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | `ub_iseki` | `ub_iseki` | 10/05/2026 | Versão "merged" mais recente do autor, sem o achievement "Face vs Face". Removido do servidor. A série original de 2008 (`ub_iseki1` → `ub_iseki2`) permanece — `ub_iseki2` acessível via changelevel, não no mapcycle diretamente. |
 | `Tubers` | `tubers_r` | 12/06/2026 | O mapa ainda existe no servidor, mas foi removido do mapcycle. O motivo é ser muito pesado para o servidor, causando lag. Ainda é acessível pelo admin. |
 | `moria_original.zop` | `moria_sc` | 12/06/2026 | Versão original do mapa do NIPPER, mas sem a área secreta. Ainda está no servidor, mas fora do mapcycle. |
+| `Azure Sheep Merged` | `asmerged00`–`asmerged12` | 25/10/2026 | Substituído pela versão mais nova `azuresheep_c00a_mv2` (modified 2026 Oct 3). Arquivos continuam no servidor, só saiu do mapcycle. |
