@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 25/10/2026 — 517 entradas no mapcycle (VPS real), 506 campanhas no site. Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 01/11/2026 — 524 entradas no mapcycle (VPS real), 512 campanhas no site. Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
 
 ## Fonte dos mapas
 
@@ -65,6 +65,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | black_haze | - |
 | blackfacility | - |
 | blackfacility2 | - |
+| d1_canals_01 | - *(saída leva a d1_canals_01a, que não existe no pacote → segue o mapcycle)* |
 | d1_town_01 | d1_town_01a, d1_town_02, d1_town_02a, d1_town_02b, d1_town_03, d1_town_04, d1_town_05 |
 | d2_prison_1 | d2_prison_002 |
 | blackmesaepf | - |
@@ -145,6 +146,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | enc-1 | enc-2 |
 | enroute66 | - |
 | eod1 | eod2, eod3, eod4, eod5 |
+| epp1 | epp2 |
 | escape_series | escape_series_1a, escape_series_1b |
 | escape_series_2a | escape_series_2b, escape_series_2c, escape_series_2d, escape_series_2e |
 | escape_series_3a | escape_series_3b, escape_series_3c, escape_series_3d, escape_series_3e |
@@ -278,6 +280,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | osprey | - |
 | osprey_company | - |
 | otokotati_no_kouzan | - |
+| p98_01 | p98_02 |
 | peanyworld_r_1-1 | peanyworld_r_1-2, peanyworld_r_2-1a, peanyworld_r_2-1b, peanyworld_r_2-2 |
 | pizza_ya_san1 | pizza_ya_san2 |
 | pointless_b2 | - |
@@ -332,6 +335,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_assault | - |
 | sc_avp1-4m | - |
 | sc_aztec | - |
+| sc_buro_prologue_demo | - |
 | sc_caget | - |
 | sc_campfire | - |
 | sc_carpodacus_carnage | sc_carpodacus_carnage2, sc_carpodacus_carnage3, sc_carpodacus_carnage3_2 |
@@ -420,10 +424,12 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | shanghai | - |
 | shattered | - |
 | shl_training | shl_0, shl_1, shl_2, shl_3, shl_4, shl_4b, shl_5, shl_5b, shl_6, shl_7 ? |
+| sid1 | sid2 |
 | sigur_merge | - |
 | skylined | - |
 | sl_c01_a1 | sl_c01_a2, sl_c02_a1, sl_c02_a2, sl_c03, sl_c04, sl_c05_a1, sl_c05_a2, sl_c05_a3, sl_c06, sl_c07_a1, sl_c07_a2, sl_c08_a1, sl_c08_a2, sl_c09, sl_c10, sl_c11_a1, sl_c11_a2, sl_c11_a3, sl_c11_a4, sl_c11_a5, sl_c12, sl_c13_a1, sl_c13_a2, sl_c13_a3, sl_c13_a4, sl_c14, sl_c15, sl_c16_a1, sl_c16_a2, sl_c16_a3, sl_c16_a4, sl_c17, sl_c18 |
 | sledge | - |
+| smart_decoy1 | smart_decoy2, smart_decoy2a |
 | smashtv_beta | - |
 | snd | - |
 | spaceprisoner | spaceprisoner2 |
