@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 01/11/2026 — 524 entradas no mapcycle (VPS real), 512 campanhas no site. Documentação dos mapas vinculados pode estar incompleta para entradas mais recentes.
+> Última atualização: 05/11/2026 — 526 entradas no mapcycle (VPS real), 516 campanhas no site.
 
 ## Fonte dos mapas
 
@@ -38,12 +38,12 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | alienshooter_demo | - |
 | ani1 | ani2, ani3, ani4 |
 | aniquilacion | - |
-| arcad2_v1 | - |
 | arcad_2v1 | - |
 | arcad_v1 | arcad2_v1 |
-| Arena_Wildlife_Annex | - |
 | arctic_incident_1 | arctic_incident_2 |
-| ascii_art | ascii_art2 |
+| Arena_Wildlife_Annex | - |
+| ascii_art | - |
+| ascii_art2 | - |
 | assaultmesa2 | assaultmesa2-2 |
 | ast_r_1 | ast_r_2 |
 | aunit_1 | aunit_2, aunit_3, aunit_4, aunit_5 |
@@ -54,8 +54,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | azuresheep_c00a_mv2 | azuresheep_c00b_mv2, azuresheep_c01_mv2, azuresheep_c02a_mv2, azuresheep_c02b_mv2, azuresheep_c03a_mv2, azuresheep_c03b_mv2, azuresheep_c04_mv2, azuresheep_c05_mv2, azuresheep_c06_mv2, azuresheep_c07_mv2, azuresheep_c08_mv2, azuresheep_c09a_mv2, azuresheep_c09b_mv2, azuresheep_c10_mv2, azuresheep_c11_mv2 |
 | back_whispers_1_v2 | back_whispers_2_v2, back_whispers_3_v2 |
 | base_attack | - |
-| brokenpath | - |
-| btx1 | btx2, btx3, btx4, btx5, btx6 |
 | betrayed_beta | - |
 | between | - |
 | between_elvis | between_elvis_lg |
@@ -65,9 +63,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | black_haze | - |
 | blackfacility | - |
 | blackfacility2 | - |
-| d1_canals_01 | - *(saída leva a d1_canals_01a, que não existe no pacote → segue o mapcycle)* |
-| d1_town_01 | d1_town_01a, d1_town_02, d1_town_02a, d1_town_02b, d1_town_03, d1_town_04, d1_town_05 |
-| d2_prison_1 | d2_prison_002 |
 | blackmesaepf | - |
 | blackops | - |
 | bluecell_r | - |
@@ -83,12 +78,15 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | breakout_extended | - |
 | bridge | - |
 | bridge2k | - |
+| brokenpath | - |
 | bts_rc | - |
 | btw1 | btw2 |
+| btx1 | btx2, btx3, btx4, btx5, btx6 |
 | cad_ctraining | cad_lab1, cad_merged00, cad_merged01, cad_merged02, cad_merged03, cad_merged04, cad_merged05, cad_merged06, cad_merged07, cad_merged08, cad_merged09, cad_outro |
 | caged-1 | caged-2, caged-3, caged_bonus |
 | case1 | case2, case3, case4, case5, case6, case7, case8, case9 |
 | cassault1 | - |
+| catharsis | - |
 | cd_hub | cd1, cd2, cd3, cd4, cd5, cd6 (loop: cd6 volta ao cd_hub; o hub é o 1º e o último mapa — info do responsável pelo port, 25/10) |
 | central_bunker_r6 | - |
 | cg_xv | - |
@@ -104,6 +102,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | cr_wayne_v2 | - |
 | cra_a4 | - |
 | crablegs | - |
+| cracklife_c00 | cracklife_c01_a1, cracklife_c01_a2, cracklife_c02_a1, cracklife_c02_a2, cracklife_c03, cracklife_c04, cracklife_c05_a1, cracklife_c05_a2, cracklife_c05_a3, cracklife_c06, cracklife_c07_a1, cracklife_c07_a2, cracklife_c08_a1, cracklife_c08_a2, cracklife_c09, cracklife_c10, cracklife_c11_a1, cracklife_c11_a2, cracklife_c11_a3, cracklife_c11_a4, cracklife_c11_a5, cracklife_c12, cracklife_c13_a1, cracklife_c13_a2, cracklife_c13_a3, cracklife_c13_a4, cracklife_c14, cracklife_c15, cracklife_c16_a1, cracklife_c16_a2, cracklife_c16_a3, cracklife_c16_a4, cracklife_c17, cracklife_c18 |
 | crimecity | - |
 | crisis1-2m | - |
 | croodcoop | - |
@@ -117,7 +116,11 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | ctf_warforts | - |
 | cwc1 | cwc2, cwc3, cwc3a, cwc4, cwc4a |
 | cwcr1a | cwcr1b, cwcr2 |
+| d1_canals_01 | - *(saída leva a d1_canals_01a, que não existe no pacote → segue o mapcycle)* |
+| d1_town_01 | d1_town_01a, d1_town_02, d1_town_02a, d1_town_02b, d1_town_03, d1_town_04, d1_town_05 |
 | d2_coast_10_xmas | - |
+| d2_prison_1 | d2_prison_002 |
+| dark_life | - |
 | darkstar_merged01 | darkstar_merged02, darkstar_merged03, darkstar_merged04, darkstar_merged05 |
 | davtrain-1 | davtrain-2 |
 | dbjr | - |
@@ -163,16 +166,18 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | extreme_uboa_t | - |
 | fail-mountain | - |
 | fail-mountain-20260531 | - |
-| ffl_a | ffl_b |
 | failure_1 | failure_2, failure_3 |
 | fallback_fire1 | fallback_fire2 |
 | fallback_ice1 | fallback_ice2, fallback_ice3 |
 | fate0 | fate1, fate2, fate3 |
+| ffl_a | ffl_b |
 | fi_lobby | fi_c01_a1, fi_c01_a2, fi_c02_a1, fi_c02_a2, fi_c03_a1, fi_c03_a2, fi_c03_a3, fi_c04_a1, fi_c04_a2, fi_c05_a1, fi_c05_a2, fi_c06_a1, fi_c06_a2, fi_c06_a3, fi_c07_a1, fi_c07_a2, fi_c07_a3, fi_c08_a1, fi_c08_a2, fi_c09_a1, fi_c09_a2, fi_c10_a1, fi_c10_a2 |
 | fortified1 | - |
 | frostline_v1r2 | - |
 | gash | - |
 | gausslabbeta2 | - |
+| ghouls_forest | - |
+| ghouls_forest2 | - |
 | gitfest-1g | gitfest-2g |
 | grunts_course | - |
 | gyudon_addict | - |
@@ -188,7 +193,9 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | he1 | he2, he3 |
 | hellbound | - |
 | hi_c1_l1 | - |
+| high-speed-cz1 | high-speed-cz2, high-speed-cz3, high-speed-cz4 |
 | hl_c00 | hl_c01_a1, hl_c01_a2, hl_c02_a1, hl_c02_a2, hl_c03, hl_c04, hl_c05_a1, hl_c05_a2, hl_c05_a3, hl_c06, hl_c07_a1, hl_c07_a2, hl_c08_a1, hl_c08_a2, hl_c09, hl_c10, hl_c11_a1, hl_c11_a2, hl_c11_a3, hl_c12_a1, hl_c12_a2, hl_c13_a1, hl_c13_a2, hl_c13_a3, hl_c13_a4, hl_c14, hl_c15, hl_c16_a1, hl_c16_a2, hl_c16_a3, hl_c16_a4, hl_c17, hl_c18 |
+| hl_u01 | hl_u02, hl_u03, hl_u04, hl_u05, hl_u06, hl_u07, hl_c13_a1, hl_c13_a2, hl_c13_a3, hl_c13_a4, hl_c14, hl_c15, hl_c16_a1, hl_c16_a2, hl_c16_a3, hl_c16_a4, hl_c17, hl_c18 |
 | hlbar_canteen | - |
 | hlcomando_1 | hlcomando_2, hlcomando_3, hlcomando_4, hlcomando_5 |
 | hlplu_1 | hlplu_2, hlplu_3, hlplu_4, hlplu_t |
@@ -199,17 +206,19 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | icestormx | - |
 | incoming | - |
 | infested | infested2 |
+| Infiltracja-1 | Infiltracja-2, Infiltracja-3 |
 | infiltrate | - |
 | infinite_rift1 | infinite_rift2, infinite_rift3, infinite_rift4 |
 | inhuman | - |
+| insecure_00 | insecure_01, insecure_02, insecure_02bc, insecure_03, insecure_03bc, insecure_04, insecure_04a, insecure_04b, insecure_04c, insecure_04d, insecure_04e, insecure_04f, insecure_05, insecure_05a, insecure_05b, insecure_05c, insecure_05d, insecure_05e, insecure_05f, insecure_05g, insecure_05h, insecure_05i, insecure_06, insecure_06a, insecure_06b, insecure_06c, insecure_06d, insecure_06e, insecure_06f, insecure_07 |
 | instinct_r_1 | instinct_r_2, instinct_r_3, instinct_r_4 |
 | intruder | - |
 | inv_dojo | - |
 | invasion1_4m | - |
 | io_v1 | - |
 | ioh1 | ioh2, ioh3, ioh4, ioh5, ioh6, ioh7 |
-| ISS-555-Cargo | - |
 | irreality1 | irreality2 |
+| ISS-555-Cargo | - |
 | it1 | it2, it3, it4, it5, it6, it7, it8, it9, it10, it11 |
 | it_has_leaks | - |
 | judgement | - |
@@ -225,8 +234,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | kyper-kuutio1 | kyper-kuutio2 |
 | labflee | - |
 | last | last2, last3, last4 |
+| laststand | - |
 | lastunic_1 | lastunic_2, lastunic_3, lastunic_4, lastunic_5, lastunic_6, lastunic_7, lastunic_8 |
-| dark_life | - |
 | left_life | - |
 | leprechaun1 | leprechaun2, leprechaun3, leprechaun3-2 |
 | letonguebasev3 | - |
@@ -235,13 +244,13 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | lobbyjumpingv1 | - |
 | lost-world | - |
 | lostmaze | - |
+| loz1_forest | loz2_tree |
 | lv_colony | - |
 | matmanizm | - |
-| moria | - |
-| moria_sc | - *(admin only — versão antiga sem secrets, repetitivo)* |
 | mboxv3 | - |
 | meat_of_yas | - |
-| megamonstermassacre | megamonstermassacre2 |
+| megamonstermassacre | - |
+| megamonstermassacre2 | - |
 | mementocity | - |
 | mf1 | mf2, mf3, mf4 |
 | miami | - |
@@ -252,6 +261,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | mmm_v2 | - |
 | mommamesa | - |
 | monsterdok_r | - |
+| moria | - |
+| moria_sc | - *(admin only — versão antiga sem secrets, repetitivo)* |
 | murks | - |
 | music | - |
 | mustard | - |
@@ -283,8 +294,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | p98_01 | p98_02 |
 | peanyworld_r_1-1 | peanyworld_r_1-2, peanyworld_r_2-1a, peanyworld_r_2-1b, peanyworld_r_2-2 |
 | pizza_ya_san1 | pizza_ya_san2 |
-| pointless_b2 | - |
 | pof0 | pof0a, pof1, pof2, pof3, pof4, pof5 |
+| pointless_b2 | - |
 | poke646_lobby | po_intro, po_c0m1, po_c0m2, po_c0m3, po_c1m1, po_c1m2, po_c1m3, po_c1m4, po_c2m1, po_c2m2, po_c2m3, po_c2m4, po_c2m5, po_c3m1, po_c3m2, po_c3m3, po_c3m4, po_c3m5, po_c3m6, po_c3m7, po_c3m8, po_c4m1, po_c4m2, po_c4m3, po_c4m4, po_c4m5, po_c5m1, po_outro, pv_intro, pv_c1m1, pv_c1m2, pv_c1m3, pv_c1m4, pv_c1m5, pv_c2m1, pv_c2m2, pv_c2m3, pv_c2m4, pv_c2m5, pv_c3m1, pv_c3m2, pv_outro |
 | polar_rescue | - |
 | portal_house_a1_r | portal_house_a2_r, portal_house_a3_r, portal_house_a4_r, portal_house_b_r, portal_house_c_r, portal_house_d_r, portal_house_a1_climax_r, portal_house_a2_climax_r, portal_house_a3_climax_r, portal_house_a4_climax_r, portal_house_c_climax_r |
@@ -296,6 +307,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | projectguilty1 | projectguilty2, projectguilty3 |
 | ptb2 | - *(admin only — não está no mapcycle)* |
 | push_the_button | - *(admin only — não está no mapcycle)* |
+| q1_lobby | q1_cm1 |
+| qe_skyscrap1 | qe_skyscrap2 |
 | quarter | - |
 | ragemap | - |
 | ragemap2016 | - |
@@ -307,12 +320,12 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | rc_towerdefense | - |
 | reco | - |
 | rede0 | rede1, rede2, rede3, rede4, rede5, rede6_1, rede7, rede8 |
+| redmarket | - |
 | residual_point_lobby | rp_c00_lobby, rp_c00, rp_c00_m1, rp_c00_m2, rp_c00_m3, rp_c00_m4, rp_c00_m5, rp_c01, rp_c02, rp_c03_m1, rp_c03_m2, rp_c04, rp_c05, rp_c06, rp_c07_m1, rp_c07_m2sewer, rp_c07_m2surface, rp_c08_m1sewer, rp_c08_m1surface, rp_c08_m2sewer, rp_c08_m2surface, rp_c08_m3, rp_c08_m3surface, rp_c08_m4, rp_c09, rp_c10_m1, rp_c11, rp_c12_m1, rp_c12_m3, rp_c13_m2a, rp_c13_m2b, rp_c13_m4, rp_c14, rps_surface (56 BSPs) |
 | resist1 | - |
 | resistance | - |
 | ressya_no_tabi | - |
 | restriction01 | restriction02, restriction03, restriction04, restriction05, restriction06, restriction07, restriction08, restriction09, restriction10 |
-| rev_hl_c17 | rev_hl_c16_a4, rev_hl_c16_a3, rev_hl_c16_a2, rev_hl_c16_a1, rev_hl_c15, rev_hl_c14, rev_hl_c13_a4, rev_hl_c13_a3, rev_hl_c13_a2, rev_hl_c13_a1, rev_hl_c12, rev_hl_c11_a5, rev_hl_c11_a4, rev_hl_c11_a3, rev_hl_c11_a2, rev_hl_c11_a1, rev_hl_c10, rev_hl_c09, rev_hl_c08_a2, rev_hl_c08_a1, rev_hl_c07_a2, rev_hl_c07_a1, rev_hl_c06, rev_hl_c05_a3, rev_hl_c05_a2, rev_hl_c05_a1, rev_hl_c04, rev_hl_c03, rev_hl_c02_a2, rev_hl_c02_a1, rev_hl_c01_a2, rev_hl_c01_a1 *(ordem reversa — FORA do mapcycle por ora (25/10): saída do c11_a4 leva ao hl_c11_a5; fix testado no local, aguardando decisão/resposta do autor)* |
 | revers_hl_c18 | revers_hl_c17, revers_hl_c16_a4, revers_hl_c16_a3, revers_hl_c16_a2, revers_hl_c16_a1, revers_hl_c15, revers_hl_c14, revers_hl_c13_a4, revers_hl_c13_a3, revers_hl_c13_a2, revers_hl_c13_a1, revers_hl_c12, revers_hl_c11_a5, revers_hl_c11_a4, revers_hl_c11_a3, revers_hl_c11_a2, revers_hl_c11_a1, revers_hl_c10, revers_hl_c09, revers_hl_c08_a2, revers_hl_c08_a1, revers_hl_c07_a2, revers_hl_c07_a1, revers_hl_c06, revers_hl_c05_a3, revers_hl_c05_a2, revers_hl_c05_a1, revers_hl_c04, revers_hl_c03, revers_hl_c02_a2, revers_hl_c02_a1, revers_hl_c01_a2, revers_hl_c01_a1, revers_hl_c00, revers_hl_t00 |
 | rhapsody_b1_1 | rhapsody_b2_1, rhapsody3_beta1 |
 | richard_boderbot | richard_boderbot2, richard_boderbot3, richard_boderbot4, richard_boderbot5 |
@@ -331,17 +344,19 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_another | - |
 | sc_anotherv2_beta | - |
 | sc_argentina-series | sc_argentina-series2, sc_argentina-series3, sc_argentina-series4 |
-| sc_bunker-escape | - |
 | sc_assault | - |
 | sc_avp1-4m | - |
 | sc_aztec | - |
+| sc_bunker-escape | - |
 | sc_buro_prologue_demo | - |
 | sc_caget | - |
 | sc_campfire | - |
 | sc_carpodacus_carnage | sc_carpodacus_carnage2, sc_carpodacus_carnage3, sc_carpodacus_carnage3_2 |
 | sc_castlerat_v1 | - |
 | sc_castlevania | - |
+| sc_catalyst | - |
 | sc_complex | - |
+| sc_confuse | - |
 | sc_contratosc_c1_beta | - |
 | sc_crazylab_final | - |
 | sc_dark_seekers_final | sc_dark_seekers_2_final |
@@ -399,6 +414,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_toysoldiers | - |
 | sc_tropical | sc_tropical2, sc_tropical3 |
 | sc_unreal | - |
+| sc_verc_18 | - |
 | sc_wars | - |
 | sc_waterflow | - |
 | sc_waterworks | - |
@@ -415,7 +431,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | secretcity_r_k2 | (no mapcycle — parte da campanha secretcity, ver secretcity_r_1) |
 | secretcity_r_red | (no mapcycle — parte da campanha secretcity, ver secretcity_r_1) |
 | secretgarden | - |
-| secrethunt1 | secrethunt2_r |
+| secrethunt1 | - |
+| secrethunt2_r | - |
 | secretlab_r | - |
 | sectore_1 | sectore_2, sectore_3, sectore_4, sectore_5 |
 | sectore_level_1 | - |
@@ -432,12 +449,13 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | smart_decoy1 | smart_decoy2, smart_decoy2a |
 | smashtv_beta | - |
 | snd | - |
-| spaceprisoner | spaceprisoner2 |
 | sneed_v3_summer | - |
 | sneed_v3_winter | - |
 | sniper4 | - |
+| spaceprisoner | spaceprisoner2 |
 | squad_gman | - |
 | square_run | - |
+| ssa_karnak_enter-n | ssa_karnak_enter_complex-n, ssa_karnak_temple-n, ssa_hatshepsut-n, ssa_hatshepsut2-n |
 | stacja | - |
 | stadium4 | - |
 | stfu_and_climb | - |
@@ -452,18 +470,17 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | svor01-2 | - |
 | swars_installation | - |
 | t0a0 | t0a0a, t0a0b1, t0a0b2, t0a0c, t0a0d |
-| tb_caves | - |
+| tb_caves | tb_city_of_vilcabamba |
 | tc_1 | - |
 | TD-1 | TD-2, TD-3, TD-4, TD-5 |
 | te1 | te2, te3, te4, te5 |
 | th_after_event | - |
-| th_frontline | - |
 | th_ep1_00 | th_ep1_01, th_ep1_02, th_ep1_03, th_ep1_04, th_ep1_05 |
 | th_ep2_00 | th_ep2_01, th_ep2_02, th_ep2_03, th_ep2_04 |
 | th_ep3_00 | th_ep3_01, th_ep3_02, th_ep3_03, th_ep3_04, th_ep3_05, th_ep3_06, th_ep3_07 |
 | th_escape | - |
+| th_frontline | - |
 | the-climb | the-climb2, the-climb3 |
-| theylive | - |
 | the_cemetery | - |
 | the_crypt | - |
 | the_daikon_warfare1 | the_daikon_warfare2, the_daikon_warfare3 |
@@ -475,7 +492,9 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | them | - |
 | theonlywayisup | - |
 | thewinery | - |
+| theylive | - |
 | theyrhungry | - |
+| timefall1 | timefall2, timefall3, timefall4, timefall4a, timefall4b, timefall5, timefall6 |
 | toadsnatch | - |
 | toonrun1 | toonrun2, toonrun3 |
 | touhou_hakureijinja | - |
@@ -499,7 +518,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | uboa | - |
 | uboa_argentino1-2 | - |
 | uboa_bossrush | - |
-| uboa_rampage | uboa_rampage_II |
+| uboa_rampage | - |
+| uboa_rampage_II | - |
 | uboabrasil | - |
 | uboamedley | - |
 | uboapack | - |
@@ -520,9 +540,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | want_1 | want_2, want_3, want_4, want_5, want_6, want_7, want_8, want_9, want_9a, want_10, want_11, want_12, want_13 |
 | why1 | - |
 | wired | - |
+| wrongworld | wrongworld2 |
 | xaoc-novastation | - |
-| wrongworld | - |
-| wrongworld2 | - |
 | xen_bossrush | - |
 | xenomorphic | - *(admin only — não está no mapcycle)* |
 | xenwalk | - |
@@ -546,3 +565,4 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | `Tubers` | `tubers_r` | 12/06/2026 | O mapa ainda existe no servidor, mas foi removido do mapcycle. O motivo é ser muito pesado para o servidor, causando lag. Ainda é acessível pelo admin. |
 | `moria_original.zop` | `moria_sc` | 12/06/2026 | Versão original do mapa do NIPPER, mas sem a área secreta. Ainda está no servidor, mas fora do mapcycle. |
 | `Azure Sheep Merged` | `asmerged00`–`asmerged12` | 25/10/2026 | Substituído pela versão mais nova `azuresheep_c00a_mv2` (modified 2026 Oct 3). Arquivos continuam no servidor, só saiu do mapcycle. |
+| `reverse_half_life.7z` | `rev_hl_c17` (entrada) → rev_hl_c16_a4, rev_hl_c16_a3, rev_hl_c16_a2, rev_hl_c16_a1, rev_hl_c15, rev_hl_c14, rev_hl_c13_a4, rev_hl_c13_a3, rev_hl_c13_a2, rev_hl_c13_a1, rev_hl_c12, rev_hl_c11_a5, rev_hl_c11_a4, rev_hl_c11_a3, rev_hl_c11_a2, rev_hl_c11_a1, rev_hl_c10, rev_hl_c09, rev_hl_c08_a2, rev_hl_c08_a1, rev_hl_c07_a2, rev_hl_c07_a1, rev_hl_c06, rev_hl_c05_a3, rev_hl_c05_a2, rev_hl_c05_a1, rev_hl_c04, rev_hl_c03, rev_hl_c02_a2, rev_hl_c02_a1, rev_hl_c01_a2, rev_hl_c01_a1 *(ordem reversa — FORA do mapcycle por ora (25/10): saída do c11_a4 leva ao hl_c11_a5; fix testado no local, aguardando decisão/resposta do autor)* | 25/10/2026 | Reverse Half-Life (joga de trás pra frente). Instalado, mas fora do mapcycle por causa de um bug na saída do `rev_hl_c11_a4`; volta quando o fix for testado. |
