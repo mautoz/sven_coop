@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 05/11/2026 — 526 entradas no mapcycle (VPS real), 516 campanhas no site.
+> Última atualização: 20/11/2026 — 539 entradas no mapcycle (VPS real), 529 campanhas no site.
 
 ## Fonte dos mapas
 
@@ -30,9 +30,13 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | adams_dungeon-20231225 | - |
 | adams_puzzles_beta2 | - |
 | adato1 | - |
+| adventure_1 | adventure_2, adventure_3 |
+| aemos | - |
 | afraidofmonsters_lobby | - |
 | afrikakorps-bonus | - |
 | afrikakorps1-3m | - |
+| aircontact | - |
+| airport1-2m | - |
 | albulena | - |
 | alien_gate | - |
 | alienshooter_demo | - |
@@ -45,7 +49,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | ascii_art | - |
 | ascii_art2 | - |
 | assaultmesa2 | assaultmesa2-2 |
-| ast_r_1 | ast_r_2 |
+| ast_r1 | ast_r2 |
 | aunit_1 | aunit_2, aunit_3, aunit_4, aunit_5 |
 | auspices | - |
 | autonomy_lost1 | autonomy_lost2, autonomy_lost3, autonomy_lost4, autonomy_lost5 |
@@ -101,7 +105,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | conundrum3_huba | conundrum3_hubb, conundrum3_hubc, conundrum3_hubd, conundrum3_hube, conundrum3_1, conundrum3_2, conundrum3_3, conundrum3_4, conundrum3_5, conundrum3_6, conundrum3_7, conundrum3_8, conundrum3_9, conundrum3_10, conundrum3_11, conundrum3_12 |
 | cr_wayne_v2 | - |
 | cra_a4 | - |
-| crablegs | - |
 | cracklife_c00 | cracklife_c01_a1, cracklife_c01_a2, cracklife_c02_a1, cracklife_c02_a2, cracklife_c03, cracklife_c04, cracklife_c05_a1, cracklife_c05_a2, cracklife_c05_a3, cracklife_c06, cracklife_c07_a1, cracklife_c07_a2, cracklife_c08_a1, cracklife_c08_a2, cracklife_c09, cracklife_c10, cracklife_c11_a1, cracklife_c11_a2, cracklife_c11_a3, cracklife_c11_a4, cracklife_c11_a5, cracklife_c12, cracklife_c13_a1, cracklife_c13_a2, cracklife_c13_a3, cracklife_c13_a4, cracklife_c14, cracklife_c15, cracklife_c16_a1, cracklife_c16_a2, cracklife_c16_a3, cracklife_c16_a4, cracklife_c17, cracklife_c18 |
 | crimecity | - |
 | crisis1-2m | - |
@@ -133,14 +136,17 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | desastre | desastre_cap1, desastre_cap2, desastre_cap3, desastre_cap4, desastre_cap5, desastre_cap6, desastre_cap7, desastre_cap8 |
 | desertbus_v1a | - |
 | desertcircle | - |
+| desertlab | - |
 | desk | - |
 | desolation | desolationp2 |
 | devious2_v2 | - |
 | devious_trials1 | - |
+| dirtpath | - |
 | dogs-1 | - |
 | donaldtrump2016 | - |
 | doomfest_merged | - |
 | dread | - |
+| dreamstairs_v3 | - |
 | duckhunt_2008 | - |
 | durga | - |
 | dy_accident1 | dy_accident2, dy_alien, dy_dampen, dy_dorms, dy_focus, dy_fubar, dy_hazard, dy_lasers, dy_outro, dy_signal, dy_uplink |
@@ -155,6 +161,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | escape_series_3a | escape_series_3b, escape_series_3c, escape_series_3d, escape_series_3e |
 | etc1_1 | etc1_2 |
 | etc2_1 | etc2_2, etc2_3, etc2_4, etc2_5 |
+| etf | - |
 | etherlab_v1 | - |
 | evilmansion | - |
 | exhale1 | (no mapcycle — nível secreto acessível via exhale1platinum) |
@@ -172,6 +179,8 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | fate0 | fate1, fate2, fate3 |
 | ffl_a | ffl_b |
 | fi_lobby | fi_c01_a1, fi_c01_a2, fi_c02_a1, fi_c02_a2, fi_c03_a1, fi_c03_a2, fi_c03_a3, fi_c04_a1, fi_c04_a2, fi_c05_a1, fi_c05_a2, fi_c06_a1, fi_c06_a2, fi_c06_a3, fi_c07_a1, fi_c07_a2, fi_c07_a3, fi_c08_a1, fi_c08_a2, fi_c09_a1, fi_c09_a2, fi_c10_a1, fi_c10_a2 |
+| flee | - |
+| focalpoint0 | focalpoint1, focalpoint2, focalpoint3, focalpoint4, focalpoint5, focalpoint6, focalpoint7, focalpoint7a, focalpoint8, focalpoint7hub, focalpoint9hub, focalpoint7b, focalpoint9, focalpoint10, focalpoint9b, focalpoint7c, focalpoint9a, focalpoint11, focalpoint12, focalpoint13, focalpoint_train, focalpoint_end |
 | fortified1 | - |
 | frostline_v1r2 | - |
 | gash | - |
@@ -179,11 +188,15 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | ghouls_forest | - |
 | ghouls_forest2 | - |
 | gitfest-1g | gitfest-2g |
+| gordonsci2 | - |
+| grunts | - |
+| grunts2 | - |
 | grunts_course | - |
 | gyudon_addict | - |
 | halloween_construction | - |
 | halloween_hauntedhouse | - |
 | halloween_hospital | - |
+| haphazard | - |
 | haunted1-2m | - |
 | hauntedsouls-a1 | hauntedsouls-a2 |
 | hauntedsouls-b1 | hauntedsouls-b2, hauntedsouls-b3, hauntedsouls-b4, hauntedsouls-b5, hauntedsouls-b6, hauntedsouls-b7, hauntedsouls-b7a, hauntedsouls-b8 |
@@ -360,6 +373,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_contratosc_c1_beta | - |
 | sc_crazylab_final | - |
 | sc_dark_seekers_final | sc_dark_seekers_2_final |
+| sc_darknebula | - |
 | sc_defend_base3a_en | - |
 | sc_defmap_v3 | - |
 | sc_doc | - |
@@ -367,6 +381,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_egypt | sc_egypt2 |
 | sc_egypt2 | - |
 | sc_er | sc_er2 |
+| sc_escapethetown | - |
 | sc_face | - |
 | sc_fathom24 | - |
 | sc_fortress_r | - |
@@ -413,6 +428,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_toxic | - |
 | sc_toysoldiers | - |
 | sc_tropical | sc_tropical2, sc_tropical3 |
+| sc_txas | - |
 | sc_unreal | - |
 | sc_verc_18 | - |
 | sc_wars | - |
@@ -451,7 +467,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | snd | - |
 | sneed_v3_summer | - |
 | sneed_v3_winter | - |
-| sniper4 | - |
 | spaceprisoner | spaceprisoner2 |
 | squad_gman | - |
 | square_run | - |
@@ -488,7 +503,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | the_prison_v2 | - |
 | the_room_demo | - |
 | thebackdoor | - |
-| thedoormonster | - |
 | them | - |
 | theonlywayisup | - |
 | thewinery | - |
@@ -525,7 +539,6 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | uboapack | - |
 | ulife_1 | ulife_2, ulife_3 |
 | underground | - |
-| underground_shelter_v1 | - |
 | underhalls | - |
 | unholy | - |
 | uplink | - |
@@ -566,3 +579,5 @@ Mapas que foram instalados mas removidos do ciclo por problemas identificados. M
 | `moria_original.zop` | `moria_sc` | 12/06/2026 | Versão original do mapa do NIPPER, mas sem a área secreta. Ainda está no servidor, mas fora do mapcycle. |
 | `Azure Sheep Merged` | `asmerged00`–`asmerged12` | 25/10/2026 | Substituído pela versão mais nova `azuresheep_c00a_mv2` (modified 2026 Oct 3). Arquivos continuam no servidor, só saiu do mapcycle. |
 | `reverse_half_life.7z` | `rev_hl_c17` (entrada) → rev_hl_c16_a4, rev_hl_c16_a3, rev_hl_c16_a2, rev_hl_c16_a1, rev_hl_c15, rev_hl_c14, rev_hl_c13_a4, rev_hl_c13_a3, rev_hl_c13_a2, rev_hl_c13_a1, rev_hl_c12, rev_hl_c11_a5, rev_hl_c11_a4, rev_hl_c11_a3, rev_hl_c11_a2, rev_hl_c11_a1, rev_hl_c10, rev_hl_c09, rev_hl_c08_a2, rev_hl_c08_a1, rev_hl_c07_a2, rev_hl_c07_a1, rev_hl_c06, rev_hl_c05_a3, rev_hl_c05_a2, rev_hl_c05_a1, rev_hl_c04, rev_hl_c03, rev_hl_c02_a2, rev_hl_c02_a1, rev_hl_c01_a2, rev_hl_c01_a1 *(ordem reversa — FORA do mapcycle por ora (25/10): saída do c11_a4 leva ao hl_c11_a5; fix testado no local, aguardando decisão/resposta do autor)* | 25/10/2026 | Reverse Half-Life (joga de trás pra frente). Instalado, mas fora do mapcycle por causa de um bug na saída do `rev_hl_c11_a4`; volta quando o fix for testado. |
+| `crablegs`, `thedoormonster`, `sniper4` | `crablegs`, `thedoormonster`, `sniper4` | 15/11/2026 | Jogabilidade fraca: mapas muito curtos e sem propósito. Arquivos continuam no servidor, só saíram do mapcycle. |
+| `underground_shelter_v1` | `underground_shelter_v1` | 15/11/2026 | Mapa com bug. Arquivos continuam no servidor, só saiu do mapcycle. |
