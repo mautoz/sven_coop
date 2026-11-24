@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 20/11/2026 — 539 entradas no mapcycle (VPS real), 529 campanhas no site.
+> Última atualização: 23/11/2026 — 541 entradas no mapcycle (VPS real), 531 campanhas no site.
 
 ## Fonte dos mapas
 
@@ -142,6 +142,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | devious2_v2 | - |
 | devious_trials1 | - |
 | dirtpath | - |
+| disco_boss | - |
 | dogs-1 | - |
 | donaldtrump2016 | - |
 | doomfest_merged | - |
@@ -177,6 +178,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | fallback_fire1 | fallback_fire2 |
 | fallback_ice1 | fallback_ice2, fallback_ice3 |
 | fate0 | fate1, fate2, fate3 |
+| fescape | - |
 | ffl_a | ffl_b |
 | fi_lobby | fi_c01_a1, fi_c01_a2, fi_c02_a1, fi_c02_a2, fi_c03_a1, fi_c03_a2, fi_c03_a3, fi_c04_a1, fi_c04_a2, fi_c05_a1, fi_c05_a2, fi_c06_a1, fi_c06_a2, fi_c06_a3, fi_c07_a1, fi_c07_a2, fi_c07_a3, fi_c08_a1, fi_c08_a2, fi_c09_a1, fi_c09_a2, fi_c10_a1, fi_c10_a2 |
 | flee | - |
