@@ -7,7 +7,7 @@ O server utiliza alguns plugins prontos e disponíveis na internet pelos própri
 | Plugin | Tipo | Fonte | Status |
 |---|---|---|---|
 | Insurgency Weapons | AngelScript | KernCore91 | ✅ Funcionando |
-| CLevels (SCXPM RPG) | AngelScript | JulianR0 | ✅ Funcionando |
+| CLevels (SCXPM RPG) | AngelScript | JulianR0 (fork [mautoz/CLevels](https://github.com/mautoz/CLevels){target="_blank"}) | ✅ Funcionando (versão corrigida desde 25/11/2026: daily rewards, HUD, níveis) |
 | RockTheVote | AngelScript | MrOats | ✅ Funcionando |
 | Nightvision | AngelScript | CubeMath | ✅ Funcionando |
 | Teleport | AngelScript | CubeMath | ✅ Funcionando |
@@ -19,7 +19,7 @@ O server utiliza alguns plugins prontos e disponíveis na internet pelos própri
 | Lt-Parachute | AngelScript | ltibm | ✅ Funcionando |
 | AntiBlock | AngelScript | wootguy | ✅ Funcionando |
 | Spectate | AngelScript | wootguy | ✅ Funcionando (modo espectador) |
-| rgbglows | AngelScript | grunt ([GameBanana](https://gamebanana.com/mods/582240){target="_blank"}) | ✅ Funcionando (`!glow` no chat) |
+| rgbglows | AngelScript | Grunt San ([GameBanana](https://gamebanana.com/mods/582240){target="_blank"}) | ✅ Funcionando (`.glow` abre o menu; `.glow brazil` etc. = cores do país; `.noglow`) |
 | PlayerHelp | AngelScript | mautoz | ✅ Funcionando (`say /commands`) |
 | mau_messages | AngelScript | mautoz | ✅ Funcionando (mensagens periódicas + boas-vindas) |
 | mau_csay | AngelScript | mautoz | ✅ Funcionando (HUD messages via bot Telegram) |
@@ -29,6 +29,8 @@ O server utiliza alguns plugins prontos e disponíveis na internet pelos própri
 | mau_punishment | AngelScript | mautoz | ✅ Funcionando (`.slap`, `.hurt`, `.kill`, `.warn`) |
 | mau_revive | AngelScript | mautoz | ⏳ Testado — pendente deploy |
 | mau_afk | AngelScript | mautoz | ✅ Funcionando (detecção AFK) |
+| mau_gifts | AngelScript | mautoz | ✅ Funcionando (presentes de Natal: 29/11 a 06/01) |
+| mau_trail | AngelScript | mautoz | ✅ Funcionando (`.trail <cor>`, `.trail brazil` = bandeira, `.trail off`) |
 | Vox | nativo Sven | Sven Co-op Team | ❌ Desativado |
 | Yell | AngelScript | sample | ❌ Desativado |
 
@@ -41,7 +43,7 @@ O server utiliza alguns plugins prontos e disponíveis na internet pelos própri
 | SteamCMD | [steamcmd_linux.tar.gz](https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz){target="_blank"} |
 | Metamod para Sven Co-op | [Mikk155/Sven-Co-op](https://github.com/Mikk155/Sven-Co-op/releases/tag/metamod){target="_blank"} |
 | Insurgency Weapons | [KernCore91/-SC-Insurgency-Weapons-Project](https://github.com/KernCore91/-SC-Insurgency-Weapons-Project){target="_blank"} |
-| CLevels (SCXPM RPG) | [JulianR0/CLevels (branch: v4)](https://github.com/JulianR0/CLevels){target="_blank"} |
+| CLevels (SCXPM RPG) | [JulianR0/CLevels (branch: v4)](https://github.com/JulianR0/CLevels){target="_blank"} · fork com as correções: [mautoz/CLevels (branch: brmau)](https://github.com/mautoz/CLevels){target="_blank"} |
 | RockTheVote | [MrOats/AngelScript_SC_Plugins](https://github.com/MrOats/AngelScript_SC_Plugins/releases/tag/RTV_v4.0){target="_blank"} |
 | Nightvision + Teleport | [CubeMath/UCHFastDL2](https://github.com/CubeMath/UCHFastDL2/tree/master/svencoop/scripts/plugins){target="_blank"} |
 | Lt-Parachute | [ltibm/Lt-Parachute](https://github.com/ltibm/Lt-Parachute){target="_blank"} |
