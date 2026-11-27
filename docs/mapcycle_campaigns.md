@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 23/11/2026 — 541 entradas no mapcycle (VPS real), 531 campanhas no site.
+> Última atualização: 26/11/2026 — 549 entradas no mapcycle (VPS real), 538 campanhas no site.
 
 ## Fonte dos mapas
 
@@ -73,6 +73,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | bm64-abc | - |
 | bm_nightmare_a_final | bm_nightmare_b_final, bm_nightmare_c_final, bm_nightmare_d_final |
 | bm_sts | - |
+| bmanbattles | - |
 | bmg-a1_getaway | - |
 | bmtcoop | - |
 | borgcube1-2m | - |
@@ -141,6 +142,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | desolation | desolationp2 |
 | devious2_v2 | - |
 | devious_trials1 | - |
+| diego_land | - |
 | dirtpath | - |
 | disco_boss | - |
 | dogs-1 | - |
@@ -355,6 +357,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sa13_1 | sa13_2, sa13_3, sa13_4, sa13_5, sa13_6, sa13_7, sa13_8, sa13_9, sa13_10, sa13_11, sa13_12, sa13_13, sa13_14, sa13_15, sa13_16, sa13_17 |
 | sandstone | - |
 | santas_workshop | santas_workshop_pt2 |
+| sbo-escape | - |
 | sc_activist-1 | sc_activist-2 |
 | sc_another | - |
 | sc_anotherv2_beta | - |
@@ -383,6 +386,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_egypt | sc_egypt2 |
 | sc_egypt2 | - |
 | sc_er | sc_er2 |
+| sc_es | - |
 | sc_escapethetown | - |
 | sc_face | - |
 | sc_fathom24 | - |
@@ -393,6 +397,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_greysnake1 | - |
 | sc_greysnake2 | - |
 | sc_grinch_fix | - |
+| sc_heist | - |
 | sc_inlimbo | - |
 | sc_intensity | - |
 | sc_laundromat_v2 | - |
@@ -419,6 +424,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | sc_spaceviking2 | - |
 | sc_spacewar | - |
 | sc_stalklab_b1 | - |
+| sc_star_rancor | - |
 | sc_strangers-1 | sc_strangers-2 |
 | sc_subsurface | - |
 | sc_tension | - |
@@ -553,6 +559,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | vis01 | vis02, vis03, vis04, vis05, vis06, vis07, vis08, vis09, vis10 |
 | volt2 | - |
 | want_1 | want_2, want_3, want_4, want_5, want_6, want_7, want_8, want_9, want_9a, want_10, want_11, want_12, want_13 |
+| war_holiday | - |
 | why1 | - |
 | wired | - |
 | wrongworld | wrongworld2 |
