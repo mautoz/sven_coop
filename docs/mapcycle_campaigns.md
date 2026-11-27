@@ -1,6 +1,6 @@
 # Sven Co-op — Mapcycle e Campanhas
 
-> Última atualização: 26/11/2026 — 549 entradas no mapcycle (VPS real), 538 campanhas no site.
+> Última atualização: 27/11/2026 — 550 entradas no mapcycle (VPS real), 539 campanhas no site.
 
 ## Fonte dos mapas
 
@@ -221,6 +221,7 @@ Antes de reportar um mapa ausente ou sugerir novos, verifique se ele está dispo
 | hr_dream-1 | hr_dream-2, hr_dream-3, hr_dream-4 |
 | htc_1 | htc_2, htc_3 |
 | icestormx | - |
+| idolhunt0 | idolhunt1, idolhunt2, idolhunt3 |
 | incoming | - |
 | infested | infested2 |
 | Infiltracja-1 | Infiltracja-2, Infiltracja-3 |
